@@ -81,44 +81,15 @@ pagination_dir: page
 # theme: landscape
 theme: cactus
 
+##############################################################################
+# Themes
+##############################################################################
+
 # Theme Configuration
 # Overwrites themes/<theme>/_config.yml
 theme_config:
   colorscheme: dark
-  projects_url: http://github.com/rimij405
   rss:
-  nav:
-    Home: /
-    About: /about
-    Blog: /blog/
-    Archive: /archives/
-    Projects: http://github.com/rimij405
-    # LINK_NAME: URL
-  social_links:
-    github: http://github.com/rimij405
-    facebook: https://www.facebook.com/effendiian
-    linkedin: http://linkedin.com/in/effendiian
-    mail: mailto:effendiian@gmail.com
-  # Logo.
-  logo:
-    enabled: true
-    width: 50
-    height: 50
-    url: /
-    gravatar: true
-  # Gravatar
-  gravatar:
-    email: effendiian@gmail.com
-  favicon:
-    desktop:
-      url: /images/favicon.ico
-      gravatar: false
-    android:
-      url: /images/favicon-192x192.png
-      gravatar: false
-    apple:
-      url: /images/apple-touch-icon.png
-      gravatar: false
 
 ##############################################################################
 # Plugins
