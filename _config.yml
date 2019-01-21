@@ -13,7 +13,8 @@ description: Personal website.
 keywords: blog,portfolio,resume,projects,hexo
 author: Ian Effendi
 email: effendiian@gmail.com
-language: en-US
+language: en
+locale: en
 timezone:
 
 # URL
@@ -90,6 +91,12 @@ theme: cactus
 theme_config:
   colorscheme: dark
   rss:
+  social_links:
+    github: http://github.com/rimij405
+    # twitter: /
+    facebook: https://www.facebook.com/effendiian
+    linkedin: http://linkedin.com/in/effendiian
+    mail: mailto:effendiian@gmail.com
 
 ##############################################################################
 # Plugins
