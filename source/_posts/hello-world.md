@@ -1,9 +1,18 @@
 ---
 title: It Started With a Bang!
+categories: 
+- hfoss
+tags:
+- blog
+- hexo
+- open-source
+- class
 ---
 # It Started With a BANG! #
 
 At least, I wish creating a personal website was as cinematic and bombastic as a Michael Bay-directed Transformers film. Alas, as with most projects, it takes a little bit of research to know what we're getting into. Let's take a look at how this site was made, shall we?
+
+<!-- more -->
 
 ## Getting Started ##
 
