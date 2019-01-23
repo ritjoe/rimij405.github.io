@@ -9,7 +9,6 @@ tags:
 date: 2019-01-22 01:06:33
 ---
 
-
 # The Way It Goes #
 
 I recently read [25 years of coding, and I'm just beginning](https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n) by dev.to user DeChamp, and found some intriguing responses across the web. One particular [Re:](https://www.pskirko.com/2019/01/20/re-25-years-of-coding/) came from [Peter Skirko](https://www.pskirko.com/). Rather than read back the very relatable thoughts and ideas they both covered, as pertains to development, I thought I'd begin with it to share where my mental state has recently turned to.

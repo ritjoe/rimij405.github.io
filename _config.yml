@@ -9,7 +9,7 @@
 # Site
 title: The Lion's Red Mane
 subtitle: Developer, designer, and music producer.
-description: Personal website.
+description: An exploration of thought, code architecture, open source culture, design, development, and more.
 keywords: blog,portfolio,resume,projects,hexo
 author: Ian Effendi
 email: effendiian@gmail.com
@@ -99,7 +99,8 @@ theme_config:
     github: http://github.com/rimij405
     facebook: https://www.facebook.com/effendiian
     linkedin: http://linkedin.com/in/effendiian
-    rss: https://rimij405.github.io/rss2.xml
+    rss-square: rss2.xml
+
     mail: mailto:effendiian@gmail.com
   nav:
     Home: /
@@ -123,11 +124,6 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-
-# JSON Feed Configuration (jsonfeed.org compliant).
-jsonFeed:
-  limit: 25
-  name: 'jsonfeed'
 
 # Search Plugin
 search:
