@@ -1,12 +1,12 @@
 ---
 title: It Started With a Bang!
 categories: 
+- blog
 - hfoss
 tags:
-- blog
-- hexo
 - open-source
 - class
+- hexo
 ---
 # It Started With a BANG! #
 

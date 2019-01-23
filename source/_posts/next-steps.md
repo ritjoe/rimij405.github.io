@@ -1,10 +1,11 @@
 ---
 title: Next Steps
-tags:
-  - blog
-  - hexo
 categories:
-  - personal
+- blog
+- hfoss
+tags:
+- personal
+- js
 date: 2019-01-22 01:06:33
 ---
 
