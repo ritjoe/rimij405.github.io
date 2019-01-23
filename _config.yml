@@ -21,7 +21,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://rimij405.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :category/:title/
 permalink_defaults:
 
 # Directory
@@ -60,9 +60,13 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: personal
 category_map:
 tag_map:
+  c#: c-sharp
+  c++: c-plus-plus
+  .net: dot-net
+  js: javascript
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -122,6 +126,10 @@ search:
 # Sitemap Plugin
 sitemap:
   path: sitemap.xml
+
+# License
+licenseType: by
+licenseIconSize: small
 
 ##############################################################################
 # Deployment
