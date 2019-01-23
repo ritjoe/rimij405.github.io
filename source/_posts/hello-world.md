@@ -8,15 +8,26 @@ tags:
 - class
 - hexo
 ---
-# It Started With a BANG! #
+
+# It Started With a BANG #
 
 At least, I wish creating a personal website was as cinematic and bombastic as a Michael Bay-directed Transformers film. Alas, as with most projects, it takes a little bit of research to know what we're getting into. Let's take a look at how this site was made, shall we?
 
 <!-- more -->
 
+## First Flight ##
+
+### IRC ###
+
+I decided to use [HexChat](https://hexchat.github.io/), and registered my nick: effendiian.
+
+### Email ###
+
+I signed up for the [floss-seminar discussion](https://lists.rit.edu/mailman/listinfo.mmcgi/floss-seminar) mailing list!
+
 ## Getting Started ##
 
-After I put on my Spotify playlist of, "[Iconic, Inspirational, and Intriguing](https://open.spotify.com/user/1271966423/playlist/6MlIJGplHSLlgmQgb0BKpw?si=khc3sdT-Sce904oMTdbeKQ)" orcheastral music, it was time to get to work. Before I could choose a framework to get started with, I needed to *know* what it was that I wanted to create.
+Finally I was ready to work on my blog. After I put on my Spotify playlist of, "[Iconic, Inspirational, and Intriguing](https://open.spotify.com/user/1271966423/playlist/6MlIJGplHSLlgmQgb0BKpw?si=khc3sdT-Sce904oMTdbeKQ)" orcheastral music, it was time to get to work. Before I could choose a framework to get started with, I needed to *know* what it was that I wanted to create.
 
 ### Priority Features ###
 
@@ -35,7 +46,7 @@ These additional features are great for quality of life and I kept them in mind 
 - **Customizable Theme**. I like to have control over my website's layout. This way, I can iterate the design across several periods of development, instead of implementing everything all at once.
 - **Comment System**. Allowing people to comment on my articles would not be a bad idea.
 
-## What Type of Website? ##
+## What Type of Website ##
 
 I'll be hosting my website on GitHub using [**GitHub Pages**](https://help.github.com/articles/using-a-static-site-generator-other-than-jekyll/) - but I won't be using [Jekyll](https://jekyllrb.com/). Instead, I'll be using the static-site generator Hexo, for these reasons:
 
@@ -48,14 +59,13 @@ I'll be hosting my website on GitHub using [**GitHub Pages**](https://help.githu
 
 ## The JAMStack ##
 
-By using Hexo to create content and hosting my static content on GitHub Pages, we end up with a website that's been built on what's known as the [JAMStack](https://jamstack.org/). 
+By using Hexo to create content and hosting my static content on GitHub Pages, we end up with a website that's been built on what's known as the [JAMStack](https://jamstack.org/).
 
 > **J**avaScript
 > **A**PIs
 > **M**arkup
 
-JAM is sticky and it holds the pieces all together. There are benefits (as listed on [their site](https://jamstack.org/best-practices/)) that come with using this stack. 
-
+JAM is sticky and it holds the pieces all together. There are benefits (as listed on [their site](https://jamstack.org/best-practices/)) that come with using this stack.
 
 ## Working With Hexo ##
 
@@ -84,16 +94,21 @@ This should give a good overview of how this website was created. All that's lef
 I used the following open source tools during the creation of this website.
 
 ### [Joplin](https://joplin.cozic.net/) ###
+
 Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format. This was useful for drafting blog posts and keeping track of all the resources I needed to use.
 
 ### [Draw.io](https://github.com/jgraph/drawio/blob/master/LICENSE) ###
+
 Useful for putting up wireframes when designing website layouts.
 
 ### [Hexo .gitignore](https://gist.github.com/spacemonkey/0a9a69004c11f82fc894) ###
+
 Used this .gitignore file as the base of my own.
 
 ### [Real Favicon Generator](https://realfavicongenerator.net/) ###
+
 Used to create the favicon for the browser and for other application platforms (iOS, Android, etc.).
 
 ### [Game-Icons](https://game-icons.net/) ###
+
 Ever growing collection of free game icons. PNG and SVG file formats available.
