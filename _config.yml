@@ -60,7 +60,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: personal
+default_category: blog
 category_map:
 tag_map:
   c#: c-sharp
@@ -97,10 +97,17 @@ theme_config:
   rss:
   social_links:
     github: http://github.com/rimij405
-    # twitter: /
     facebook: https://www.facebook.com/effendiian
     linkedin: http://linkedin.com/in/effendiian
+    rss: https://rimij405.github.io/rss2.xml
     mail: mailto:effendiian@gmail.com
+  nav:
+    Home: /
+    About: /about/
+    Blog: /categories/blog/
+    Archive: /archives/
+    Projects: http://github.com/rimij405
+
 
 ##############################################################################
 # Plugins
@@ -110,12 +117,17 @@ theme_config:
 feed:
   type: rss2
   path: rss2.xml
-  limit: 50
+  limit: 25
   hub:
   content:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+# JSON Feed Configuration (jsonfeed.org compliant).
+jsonFeed:
+  limit: 25
+  name: 'jsonfeed'
 
 # Search Plugin
 search:
