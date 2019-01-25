@@ -1,8 +1,7 @@
 ---
 title: It Started With a Bang!
 categories: 
-- blog
-- hfoss
+- [blog, hfoss]
 tags:
 - open-source
 - class

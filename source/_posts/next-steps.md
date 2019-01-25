@@ -1,8 +1,7 @@
 ---
 title: Next Steps
 categories:
-- blog
-- hfoss
+- [blog, hfoss]
 tags:
 - personal
 - js

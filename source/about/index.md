@@ -5,7 +5,7 @@ date: 2019-01-23 00:10:19
 
 # About Me #
 
-!["Image of Ian Effendi."](/images/profile.jpg)
+![Image of Ian Effendi.](/images/profile.jpg)
 
 My name is Ian Effendi, an interactive software developer from The Bronx, New York. I am currently finishing up my degree in Game Design and Development at the [School for Interactive Games and Media](https://www.rit.edu/gccis/igm/), a college at the [Rochester Institute of Technology](https://www.rit.edu/).
 
