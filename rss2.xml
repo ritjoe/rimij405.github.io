@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Lion&#39;s Red Mane</title>
+    <link>http://rimij405.github.io/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
+    <pubDate>Thu, 31 Jan 2019 03:36:34 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Literature Review #1: Bug Reporting</title>
+      <link>http://rimij405.github.io/blog/hfoss/lit-review-1/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/lit-review-1/</guid>
+      <pubDate>Thu, 31 Jan 2019 03:16:03 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;Review-How-to-Report-Bugs-Effectively&quot;&gt;&lt;a href=&quot;#Review-How-to-Report-Bugs-Effectively&quot; class=&quot;headerlink&quot; title=&quot;Review: How to Report Bugs Effectively&quot;&gt;&lt;/a&gt;Review: How to Report Bugs Effectively&lt;/h1&gt;&lt;p&gt;This is the first of several literature reviews for content relevant to the humanitarian free and open source software course. In this entry, I will be reviewing &lt;em&gt;&lt;a href=&quot;https://www.chiark.greenend.org.uk/~sgtatham/bugs.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;How to Report Bugs Effectively&lt;/a&gt;&lt;/em&gt; by &lt;a href=&quot;https://www.chiark.greenend.org.uk/~sgtatham/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Simon Tatham&lt;/a&gt;.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/lit-review-1/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Mission: Authentication</title>
+      <link>http://rimij405.github.io/blog/cybersecurity/mission-authentication/</link>
+      <guid>http://rimij405.github.io/blog/cybersecurity/mission-authentication/</guid>
+      <pubDate>Fri, 25 Jan 2019 03:09:42 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;Mission-Authentication&quot;&gt;&lt;a href=&quot;#Mission-Authentication&quot; class=&quot;headerlink&quot; title=&quot;Mission: Authentication&quot;&gt;&lt;/a&gt;Mission: Authentication&lt;/h1&gt;&lt;p&gt;Today’s little server-side experimentation dealt with ssh security and authentication. I’ll admit, I’ve been logging into my personal server using a password.&lt;/p&gt;
+&lt;p&gt;Before we dive into it, as a &lt;strong&gt;disclaimer&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;I am in no way a cryptologist, cryptographer, or security expert. The material written here was taken from around the web, and, as all things, is subject to human error.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That &lt;a href=&quot;https://simple.wikipedia.org/wiki/Cleartext&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;cleartext&lt;/a&gt; security information has been passing through my tunnels ever since I started working on that server. It was simply time to move one step up in the world of authentication - it was time to use some &lt;em&gt;cryptography&lt;/em&gt;.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/cybersecurity/mission-authentication/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>It Started With a Bang!</title>
+      <link>http://rimij405.github.io/blog/hfoss/hello-world/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/hello-world/</guid>
+      <pubDate>Fri, 25 Jan 2019 00:20:03 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;It-Started-With-a-BANG&quot;&gt;&lt;a href=&quot;#It-Started-With-a-BANG&quot; class=&quot;headerlink&quot; title=&quot;It Started With a BANG&quot;&gt;&lt;/a&gt;It Started With a BANG&lt;/h1&gt;&lt;p&gt;At least, I wish creating a personal website was as cinematic and bombastic as a Michael Bay-directed Transformers film. Alas, as with most projects, it takes a little bit of research to know what we’re getting into. Let’s take a look at how this site was made, shall we?&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/hello-world/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Next Steps</title>
+      <link>http://rimij405.github.io/blog/hfoss/next-steps/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/next-steps/</guid>
+      <pubDate>Tue, 22 Jan 2019 06:06:33 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;The-Way-It-Goes&quot;&gt;&lt;a href=&quot;#The-Way-It-Goes&quot; class=&quot;headerlink&quot; title=&quot;The Way It Goes&quot;&gt;&lt;/a&gt;The Way It Goes&lt;/h1&gt;&lt;p&gt;I recently read &lt;a href=&quot;https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;25 years of coding, and I’m just beginning&lt;/a&gt; by dev.to user DeChamp, and found some intriguing responses across the web. One particular &lt;a href=&quot;https://www.pskirko.com/2019/01/20/re-25-years-of-coding/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Re:&lt;/a&gt; came from &lt;a href=&quot;https://www.pskirko.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Peter Skirko&lt;/a&gt;. Rather than read back the very relatable thoughts and ideas they both covered, as pertains to development, I thought I’d begin with it to share where my mental state has recently turned to.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/next-steps/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
