@@ -5,6 +5,12 @@
   "hexo": {
     "version": "3.8.0"
   },
+  "scripts": {
+    "clean": "hexo clean",
+    "build": "hexo clean && hexo generate",
+    "serve": "hexo clean && hexo generate && hexo serve",
+    "deploy": "hexo clean && hexo deploy"
+  },
   "dependencies": {
     "eslint": "^5.12.1",
     "hexo": "^3.8.0",
