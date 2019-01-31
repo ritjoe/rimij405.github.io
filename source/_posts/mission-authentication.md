@@ -4,6 +4,7 @@ date: 2019-01-24 22:09:42
 categories:
 - [blog, cybersecurity]
 tags:
+- personal
 - tutorial
 - ssh
 - authentication
@@ -21,6 +22,8 @@ Before we dive into it, as a **disclaimer**:
 > **I am in no way a cryptologist, cryptographer, or security expert. The material written here was taken from around the web, and, as all things, is subject to human error.**
 
 That [cleartext](https://simple.wikipedia.org/wiki/Cleartext) security information has been passing through my tunnels ever since I started working on that server. It was simply time to move one step up in the world of authentication - it was time to use some *cryptography*.
+
+<!-- more -->
 
 ## Overview ##
 
