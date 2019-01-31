@@ -1,13 +1,13 @@
 ---
-title: lit-review-1
+title: "Literature Review #1: Bug Reporting"
 date: 2019-01-30 22:16:03
 categories: 
 - [blog, hfoss]
 tags:
 - open-source
 - class
-- [documentation, bugs]
-- [documentation, issues]
+- bugs
+- issues
 - documentation
 photos:
 - /blog/hfoss/lit-review-1/documentation.jpg
@@ -18,6 +18,8 @@ photos:
 This is the first of several literature reviews for content relevant to the humanitarian free and open source software course. In this entry, I will be reviewing *[How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)* by [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/).
 
 <!-- more -->
+
+***
 
 {% asset_img coding.jpg Image of laptop with code. %}
 
@@ -33,6 +35,8 @@ You can find this essay on Simon Tatham's personal website, [here](https://www.c
 
 This guide helps users report bugs to programmers. It's written in such a way that it prescribes approaches that the user can undertake when reporting a bug. It is precise, in explaining just how important detail is to the programmer, for users reporting bugs.
 
+***
+
 {% asset_img good-idea.jpg Photo of a lightbulb doodle, pinned to corkboard. %}
 
 ## The Good ##
@@ -40,6 +44,8 @@ This guide helps users report bugs to programmers. It's written in such a way th
 - 1) Clear, practical examples that a user can review (if given the time) for writing their own bug reports. (The poor formatting, however, is Bad item #1).
 - 2) The summary at the end of the entry is something that I wish more articles and blog posts had, especially when it comes to development and software tutorials.
 - 3) It comes in several different languages!
+
+***
 
 {% asset_img thinking.jpg Image of someone staring at a laptop with concern. %}
 
@@ -49,6 +55,8 @@ This guide helps users report bugs to programmers. It's written in such a way th
 - 2) This is written from the perspective of the user and the user alone. While useful for other developers for providing informative bug reports, the generalized presentation doesn't help programmers know what questions to ask. That process is something you'll learn largely from practice, experience, and a strong understanding of the codebase. This isn't necessarily a bad thing, but, this can be a barrier for new contributers.
 - 3) It doesn't mention what users should do in the event repositories are archived. I think it would have been a good note to address what options they have - even one as simple as, "Find a new project that fulfills your needs if you don't have the time/resources/skills to continue working on this one."
 
+***
+
 {% asset_img questionmark.jpg High exposure photograph of a question mark drawn with neon light. %}
 
 ## Q&A ##
@@ -56,6 +64,8 @@ This guide helps users report bugs to programmers. It's written in such a way th
 - 1) Is this work up-to-date? Are there new best practices for reporting bugs?
 - 2) What cases are there where a user shouldn't freeze and should try to act quickly to document the issue?
 - 3) What about situations where an open-source project is led by programmers who aren't receptive to beginners filing incomplete bug reports and are rude about it? Should there be dedicated bug handlers? Does it factor into the decision to make a hostile fork?
+
+***
 
 ## Follow-Up ##
 
