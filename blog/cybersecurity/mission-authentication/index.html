@@ -14,13 +14,13 @@
 <meta property="og:site_name" content="The Lion&#39;s Red Mane">
 <meta property="og:description" content="Mission: AuthenticationToday’s little server-side experimentation dealt with ssh security and authentication. I’ll admit, I’ve been logging into my personal server using a password. Before we dive int">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="http://rimij405.github.io/blog/cybersecurity/mission-authentication/lewis-ngugi-186309-unsplash_thumb.jpg">
-<meta property="og:image" content="http://rimij405.github.io/blog/cybersecurity/mission-authentication/pankaj-patel-729895-unsplash_thumb.jpg">
-<meta property="og:updated_time" content="2019-01-31T03:27:17.114Z">
+<meta property="og:image" content="http://rimij405.github.io/images/posts/mission-authentication/lewis-ngugi.jpg">
+<meta property="og:image" content="http://rimij405.github.io/images/posts/mission-authentication/pankaj-patel.jpg">
+<meta property="og:updated_time" content="2019-02-05T08:57:10.185Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Mission: Authentication">
 <meta name="twitter:description" content="Mission: AuthenticationToday’s little server-side experimentation dealt with ssh security and authentication. I’ll admit, I’ve been logging into my personal server using a password. Before we dive int">
-<meta name="twitter:image" content="http://rimij405.github.io/blog/cybersecurity/mission-authentication/lewis-ngugi-186309-unsplash_thumb.jpg">
+<meta name="twitter:image" content="http://rimij405.github.io/images/posts/mission-authentication/lewis-ngugi.jpg">
     
     
         
@@ -163,12 +163,12 @@
   
 <div class="article-gallery">
     
-    <a class="gallery-item" href="/blog/cybersecurity/mission-authentication/lewis-ngugi-186309-unsplash_thumb.jpg" rel="gallery_cjrk2jhln0010lwupqxg4dvx8">
-        <img src="/blog/cybersecurity/mission-authentication/lewis-ngugi-186309-unsplash_thumb.jpg" itemprop="image">
+    <a class="gallery-item" href="/images/posts/mission-authentication/lewis-ngugi.jpg" rel="gallery_cjrrjrd7w0010u8up67ro1haf">
+        <img src="/images/posts/mission-authentication/lewis-ngugi.jpg" itemprop="image">
     </a>
     
-    <a class="gallery-item" href="/blog/cybersecurity/mission-authentication/pankaj-patel-729895-unsplash_thumb.jpg" rel="gallery_cjrk2jhln0010lwupqxg4dvx8">
-        <img src="/blog/cybersecurity/mission-authentication/pankaj-patel-729895-unsplash_thumb.jpg" itemprop="image">
+    <a class="gallery-item" href="/images/posts/mission-authentication/pankaj-patel.jpg" rel="gallery_cjrrjrd7w0010u8up67ro1haf">
+        <img src="/images/posts/mission-authentication/pankaj-patel.jpg" itemprop="image">
     </a>
     
 </div>
@@ -203,7 +203,7 @@
 <h3 id="Client-Side"><a href="#Client-Side" class="headerlink" title="Client-Side"></a>Client-Side</h3><p>On the client-side, this might look like a host key fingerprint. By keeping track of this information, the client can verify that the host on the other side of the connection is, in fact, who they say they are.</p>
 <h3 id="Server-Side"><a href="#Server-Side" class="headerlink" title="Server-Side"></a>Server-Side</h3><p>If the server is given a public key by the client, it can check to ensure the client has the accompanying private key whenever it connects. If the key is given passphrase protection, the client is responsible for authenticating the key before it can be trusted by the server as well!</p>
 <h2 id="SSH"><a href="#SSH" class="headerlink" title="SSH"></a>SSH</h2><p>Secure Shell (SSH) is a cryptographic <a href="https://man.openbsd.org/ssh.1" target="_blank" rel="noopener">remote login program</a>, providing a secure channel over an unsecured network in client-server architecture. We can use applications that leverage this protocol to do things like manage files remotely, update repositories, and transfer files.</p>
-<img src="/blog/cybersecurity/mission-authentication/pankaj-patel-729895-unsplash_large.jpg" title="Screenshot of GitHub ssh session - Image by Pankaj Patel">
+<p><img src="/images/posts/mission-authentication/pankaj-patel-large.jpg" alt="Screenshot of GitHub ssh session - Image by Pankaj Patel"></p>
 <p>One strategy for securing this channel is through the use of the public-key cryptography. With great power comes great responsibility: the ability to execute command remotely is great for DevOps and sysadmins, but, the remote communication can be exposed to a lot of third-party actors.</p>
 <p><strong>PasswordAuthentication</strong></p>
 <p>Logging into a secure shell remotely can vary depending on the host’s settings, but, for the most part, clients typically connect to a host by providing a username, hostname, and port. The most basic of authentication allows users to enter a password (that is sent as cleartext) over the network. While this is the easiest way to remote login to a server, it’s also the least secure.</p>

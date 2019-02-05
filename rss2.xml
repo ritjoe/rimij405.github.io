@@ -8,8 +8,23 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Thu, 31 Jan 2019 03:36:34 GMT</pubDate>
+    <pubDate>Tue, 05 Feb 2019 09:12:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Waiting for Godot</title>
+      <link>http://rimij405.github.io/blog/hfoss/waiting-for-godot/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/waiting-for-godot/</guid>
+      <pubDate>Tue, 05 Feb 2019 08:38:25 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;Waiting-for-Godot&quot;&gt;&lt;a href=&quot;#Waiting-for-Godot&quot; class=&quot;headerlink&quot; title=&quot;Waiting for Godot&quot;&gt;&lt;/a&gt;Waiting for Godot&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/images/posts/waiting-for-godot/godot/logo_512px.png&quot; alt=&quot;Godot Logo.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This week I’m working with &lt;a href=&quot;https://godotengine.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Godot&lt;/a&gt;, a free and open source cross-platform game engine released under the very permissive &lt;a href=&quot;https://opensource.org/licenses/MIT&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MIT license&lt;/a&gt;. Let’s get to it.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/waiting-for-godot/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Literature Review #1: Bug Reporting</title>
