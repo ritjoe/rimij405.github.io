@@ -9,8 +9,8 @@ tags:
 - ssh
 - authentication
 photos:
-- /blog/cybersecurity/mission-authentication/lewis-ngugi-186309-unsplash_thumb.jpg
-- /blog/cybersecurity/mission-authentication/pankaj-patel-729895-unsplash_thumb.jpg
+- /images/posts/mission-authentication/lewis-ngugi.jpg
+- /images/posts/mission-authentication/pankaj-patel.jpg
 ---
 
 # Mission: Authentication #
@@ -71,7 +71,7 @@ If the server is given a public key by the client, it can check to ensure the cl
 
 Secure Shell (SSH) is a cryptographic [remote login program](https://man.openbsd.org/ssh.1), providing a secure channel over an unsecured network in client-server architecture. We can use applications that leverage this protocol to do things like manage files remotely, update repositories, and transfer files.
 
-{% asset_img pankaj-patel-729895-unsplash_large.jpg Screenshot of GitHub ssh session - Image by Pankaj Patel %}
+![Screenshot of GitHub ssh session - Image by Pankaj Patel](/images/posts/mission-authentication/pankaj-patel-large.jpg)
 
 One strategy for securing this channel is through the use of the public-key cryptography. With great power comes great responsibility: the ability to execute command remotely is great for DevOps and sysadmins, but, the remote communication can be exposed to a lot of third-party actors.
 

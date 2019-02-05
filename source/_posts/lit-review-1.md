@@ -10,7 +10,7 @@ tags:
 - issues
 - documentation
 photos:
-- /blog/hfoss/lit-review-1/documentation.jpg
+- /images/posts/lit-review-1/documentation.jpg
 ---
 
 # Review: How to Report Bugs Effectively #
@@ -21,7 +21,7 @@ This is the first of several literature reviews for content relevant to the huma
 
 ***
 
-{% asset_img coding.jpg Image of laptop with code. %}
+![Image of laptop with code.](/images/posts/lit-review-1/coding.jpg)
 
 ## The Basics ##
 
@@ -37,7 +37,7 @@ This guide helps users report bugs to programmers. It's written in such a way th
 
 ***
 
-{% asset_img good-idea.jpg Photo of a lightbulb doodle, pinned to corkboard. %}
+![Photo of a lightbulb doodle, pinned to corkboard.](/images/posts/lit-review-1/good-idea.jpg)
 
 ## The Good ##
 
@@ -47,7 +47,7 @@ This guide helps users report bugs to programmers. It's written in such a way th
 
 ***
 
-{% asset_img thinking.jpg Image of someone staring at a laptop with concern. %}
+![Image of someone staring at a laptop with concern.](/images/posts/lit-review-1/thinking.jpg)
 
 ## The Bad ##
 
@@ -57,7 +57,7 @@ This guide helps users report bugs to programmers. It's written in such a way th
 
 ***
 
-{% asset_img questionmark.jpg High exposure photograph of a question mark drawn with neon light. %}
+![High exposure photograph of a question mark drawn with neon light.](/images/posts/lit-review-1/questionmark.jpg)
 
 ## Q&A ##
 
