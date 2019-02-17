@@ -8,8 +8,48 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Tue, 05 Feb 2019 09:12:22 GMT</pubDate>
+    <pubDate>Sun, 17 Feb 2019 19:10:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Meetup: BrickHack V</title>
+      <link>http://rimij405.github.io/blog/hfoss/brickhack-v/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/brickhack-v/</guid>
+      <pubDate>Sun, 17 Feb 2019 17:02:02 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;BrickHack-V&quot;&gt;&lt;a href=&quot;#BrickHack-V&quot; class=&quot;headerlink&quot; title=&quot;BrickHack V&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://brickhackv.devpost.com/&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/brickhack-v/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Meetup: Global Game Jam 2019</title>
+      <link>http://rimij405.github.io/blog/hfoss/global-game-jam-2019/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/global-game-jam-2019/</guid>
+      <pubDate>Sun, 17 Feb 2019 17:01:49 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;Global-Game-Jam-2019&quot;&gt;&lt;a href=&quot;#Global-Game-Jam-2019&quot; class=&quot;headerlink&quot; title=&quot;Global Game Jam 2019&quot;&gt;&lt;/a&gt;&lt;a
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/global-game-jam-2019/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Waiting for Godot</title>
@@ -38,6 +78,20 @@
       </description>
       
       <comments>http://rimij405.github.io/blog/hfoss/lit-review-1/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Literature Review #2: Draft</title>
+      <link>http://rimij405.github.io/blog/hfoss/lit-review-2/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/lit-review-2/</guid>
+      <pubDate>Thu, 31 Jan 2019 03:16:03 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;Review-Roads-and-Bridges-The-Unseen-Labor-Behind-Our-Digital-Infrastructure&quot;&gt;&lt;a href=&quot;#Review-Roads-and-Bridges-The-Unseen-Labor-Behind-Our-Digital-Infrastructure&quot; class=&quot;headerlink&quot; title=&quot;Review: Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure&quot;&gt;&lt;/a&gt;Review: Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure&lt;/h1&gt;&lt;p&gt;This is the second of several literature reviews for content relevant to the humanitarian free and open source software course. In this entry, I will be reviewing &lt;em&gt;&lt;a href=&quot;https://github.com/ritjoe/hfoss/blob/master/assets/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure&lt;/a&gt;&lt;/em&gt; by &lt;a href=&quot;https://nadiaeghbal.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Nadia Eghbal&lt;/a&gt;.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/lit-review-2/#disqus_thread</comments>
     </item>
     
     <item>
