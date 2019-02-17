@@ -124,13 +124,13 @@ Or, write your own frontend to interface with the API!
 
 You just need a place to host the database!
 
-### Post-Mortem ###
+## Post-Mortem ##
 
-#### Challenges ####
+### Challenges ###
 
 We split up into two groups to tackle two sides of this application. We wanted to make sure our client was detached from the backend; getting from a prototype to a place where we could cleanly test functionality in the client took work. The biggest challenge came down to communicating endpoint expectations and clarifying how our JSON payloads (for both requests and responses) would interact.
 
-#### Next Steps ####
+### Next Steps ###
 
 Encouraging developers to build upon the framework we've laid out is a great start! That said, we have more features in mind. We entertained creating a cross-platform suite of clients and thought about using Google's Dart/Flutter combo to create a robust native mobile client.
 

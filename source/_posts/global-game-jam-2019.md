@@ -1,6 +1,6 @@
 ---
 title: "Meetup: Global Game Jam 2019"
-date: 2019-02-17 12:01:49
+date: 2019-01-30 12:01:49
 categories: 
 - [blog, hfoss]
 tags:
@@ -102,17 +102,21 @@ Our team name was created by a collection of our initials: '[*GJACI Games*](http
 ![Another screenshot of the game.](/images/posts/ggj-2019/screenshot-2.png)
 
 
-### Post-Mortem ###
+## Post-Mortem ##
 
 ![Another screenshot of the game.](/images/posts/ggj-2019/screenshot-3.png)
 
-#### Too-Many Hats ####
+### Too-Many Hats ###
 
 Personally, I felt that I was spread thin between so many different projects. I really want to go back and revisit the work that I started in this context. Luckily the very permissive license projects are given upon submission to the game jam mean there's an opportunity for me to go back and improve on those initial ideas. 
 
 Game development is an iterative process; I felt there was a disconnect between my work (as a programmer) and the artwork being completed by my peers. There was a lot more time-to-polish for my work than theirs! This helped me become more comfortable with working through messy work and pushing to get a stronger level of quality.
 
 Every project that I've taken on since then has increased in difficulty and I'm getting closer and closer to meeting what I think is a desirable level of quality.
+
+### Next Steps ###
+
+I'm looking forward to revisiting some of my older game projects with this new experience. Most exciting is the prospect of taking a shot at creating my own experimental FPS game - I'll likely be writing more about that as the idea takes shape and form.
 
 ![Another screenshot of the game.](/images/posts/ggj-2019/screenshot-4.png)
 
