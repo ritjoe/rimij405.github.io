@@ -1,5 +1,6 @@
 ---
 title: 'Literature Review #2: Roads and Bridges'
+date: 2019-02-17 22:16:03
 tags:
   - open-source
   - class
@@ -7,12 +8,8 @@ tags:
   - issues
   - documentation
 categories:
-  - - blog
-    - hfoss
-date: 2019-02-17 22:16:03
-photos:
+  - [blog, hfoss]
 ---
-
  
  # Review: Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure #
 
