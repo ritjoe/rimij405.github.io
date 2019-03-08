@@ -1,8 +1,7 @@
 ---
-title: HFOSS - Quiz 1
+title: "HFOSS - Quiz 1"
 date: 2019-03-08 09:20:14
 tags: quiz, hfoss
-permalink: hfoss/quiz/1
 ---
 # Quiz 1 #
 
