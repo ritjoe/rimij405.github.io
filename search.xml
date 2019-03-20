@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>Community Archictecture Analysis: Team Proposal</title>
+      <link href="/blog/hfoss/commarchteam/"/>
+      <url>/blog/hfoss/commarchteam/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Team-Proposal"><a href="#Team-Proposal" class="headerlink" title="Team Proposal"></a>Team Proposal</h1><p>This blog post serves as a proposal for the community architecture analysis of KDEvelop.</p><h2 id="Team-Members"><a href="#Team-Members" class="headerlink" title="Team Members"></a>Team Members</h2><ul><li>Nic Hartley</li><li><p><a href="mailto:nxh9052@rit.edu" target="_blank" rel="noopener">nxh9052@rit.edu</a></p></li><li><p>Joshua Schenk</p></li><li><p><a href="mailto:jks7743@rit.edu" target="_blank" rel="noopener">jks7743@rit.edu</a></p></li><li><p>Ian Effendi</p></li><li><a href="mailto:iae2784@rit.edu" target="_blank" rel="noopener">iae2784@rit.edu</a> </li></ul><h2 id="Project"><a href="#Project" class="headerlink" title="Project"></a>Project</h2><p>Our team is performing an analysis on the community architecture of the <a href="https://www.kdevelop.org/" target="_blank" rel="noopener">KDEvelop</a> IDE.</p><p>KDevelop is a cross-platform, multi-language IDE, with a wide variety of integrations. It supports plugins to add more functionality seamlessly.</p><h2 id="Division-of-Labor"><a href="#Division-of-Labor" class="headerlink" title="Division of Labor"></a>Division of Labor</h2><p>Each team member is responsible for a different ‘slice’ of the analysis.</p><h3 id="Nic-Hartley"><a href="#Nic-Hartley" class="headerlink" title="Nic Hartley"></a>Nic Hartley</h3><p>Nic is responsible for running Git By a Bus on the repository and answering questions related to the project’s survivability in the event the top 20% of active contributors were unable to continue development. </p><p>This includes the following questions:</p><ol><li><p>6E - Who has the highest amounts of “Unique Knowledge?” (As per your “Git-by-a-bus” report. If there is a tie, list each contributor, with links if possible).</p></li><li><p>6J - What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?</p></li><li><p>6K - How is the project’s participation trending and why?</p></li><li><p>6L - In your opinion, does the project pass “The Raptor Test?” (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?</p></li><li><p>6M - In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?</p></li></ol><h3 id="Joshua-Schenk"><a href="#Joshua-Schenk" class="headerlink" title="Joshua Schenk"></a>Joshua Schenk</h3><p>Joshua is responsible for calculating the Callaway Coefficient of Fail and answering questions regarding the structure and decision-making process of the community.</p><p>This includes the following questions:</p><ol><li><p>6F - What is your project’s “Calloway Coefficient of Fail?”</p></li><li><p>6G - Has there been any turnover in the Core Team? (i.e. has the same top 20% of contributors stayed the same over time? If not, how has it changed?)</p></li><li><p>6H - Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life) If not, what is the structure of its leadership, and how is it chosen?</p></li><li><p>6I - Are the front and back end developers the same people? What is the proportion of each?</p></li><li><p>6Q - Based on these answers, how would you describe the decision making structure/process of this group? Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?</p></li></ol><h3 id="Ian-Effendi"><a href="#Ian-Effendi" class="headerlink" title="Ian Effendi"></a>Ian Effendi</h3><p>Ian is responsible for the utilizing the alternative analysis tool (in this case, the ‘<a href="http://oss-watch.ac.uk/apps/openness/" target="_blank" rel="noopener">Openness Rating</a>’ tool provided by OSS Watch) and answering biographical questions regarding the project.</p><p>This includes answering the following questions:</p><ol><li><p>6A - Write a description of the project, its purpose and goals.</p></li><li><p>6B - Give a brief history of the project. When was the initial commit? The latest commit?</p></li><li><p>6C - Who approves patches? How many people?</p></li><li><p>6D - Who has commit access, or has had patches accepted? How many total?</p></li><li><p>6N - Does the project have an official “on-boarding” process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc…)</p></li><li><p>6O - Does the project have Documentation available? How extensive is it? Does it include code examples?</p></li><li><p>6P - If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?</p></li></ol><h2 id="Important-Links"><a href="#Important-Links" class="headerlink" title="Important Links"></a>Important Links</h2><p>The source code can be found at <a href="https://github.com/KDE/kdevelop" target="_blank" rel="noopener">KDEvelop’s GitHub Repository</a>.</p><h2 id="How-will-you-communicate-with-them-i-e-IRC-Channel-Email-Address-mail-lists-issue-trackers-etc…"><a href="#How-will-you-communicate-with-them-i-e-IRC-Channel-Email-Address-mail-lists-issue-trackers-etc…" class="headerlink" title="How will you communicate with them? (i.e. IRC Channel, Email Address, mail lists, issue trackers, etc…)"></a>How will you communicate with them? (i.e. IRC Channel, Email Address, mail lists, issue trackers, etc…)</h2><p>KDEvelop uses the #kdevelop channel on Freenode IRC.<br>The project mailing list can be found here: <a href="https://mail.kde.org/mailman/listinfo/kdevelop-devel" target="_blank" rel="noopener">https://mail.kde.org/mailman/listinfo/kdevelop-devel</a></p><h2 id="Upstream-Contributor-Mentors"><a href="#Upstream-Contributor-Mentors" class="headerlink" title="Upstream / Contributor Mentors"></a>Upstream / Contributor Mentors</h2><p>Several team members are listed on KDEvelop’s website <a href="https://www.kdevelop.org/kdevelop-team" target="_blank" rel="noopener">here</a>, including inactive developers. Below is the information for the core and active contributors.</p><h3 id="Core-Developers"><a href="#Core-Developers" class="headerlink" title="Core Developers"></a>Core Developers</h3><ul><li>Kevin Funk | <a href="mailto:kfunk@kde.org" target="_blank" rel="noopener">kfunk@kde.org</a></li><li><p>Co-maintainer; C++/Clang, General Improvements, QA, Windows Support, Performance, Website, and more…</p></li><li><p>Sven Brauch | <a href="mailto:svenbrauch@gmail.com" target="_blank" rel="noopener">svenbrauch@gmail.com</a></p></li><li><p>Co-Maintainer; Python Support, User Interface improvements</p></li><li><p>Milian Wolff | <a href="mailto:mail@milianw.de" target="_blank" rel="noopener">mail@milianw.de</a></p></li><li><p>Generic manager, Webdevelopment Plugins, Snippets, Bugfixing, Performance, and more…</p></li><li><p>Aleix Pol Gonzalez | <a href="aleixpol@gmail.com">aleixpol@gmail.com</a></p></li><li>CMake Support, Run Support, Kross Support, Git Support, and more…</li></ul><h3 id="Active-Contributors"><a href="#Active-Contributors" class="headerlink" title="Active Contributors"></a>Active Contributors</h3><ul><li>David Nolden | <a href="david.nolden.kdevelop@art-master.de">david.nolden.kdevelop@art-master.de</a></li><li><p>Definition-Use Chain, C++ Support, Code Navigation, Code Completion, Coding Assistance, Refactoring, and more…</p></li><li><p>Olivier JG | <a href="olivier.jg@gmail.com">olivier.jg@gmail.com</a></p></li><li>Various Bugfixes, Polishing, Bug Triaging, Rename Assistant, and more…</li></ul><h2 id="On-Challenges"><a href="#On-Challenges" class="headerlink" title="On Challenges"></a>On Challenges</h2><h3 id="What-are-the-easy-parts"><a href="#What-are-the-easy-parts" class="headerlink" title="What are the easy parts?"></a>What are the easy parts?</h3><ul><li><p>Finding the biographical information regarding the project is just a matter of searching for answers in the right places.</p></li><li><p>Since KDE supports the development of KDEvelop, it’s easier to find documentation for the community in one place.</p></li><li><p>Divvying up the work should be ‘easy’ because the rubric establishes all of the things that must be done; it’s just a matter of assigning tasks to each participant.</p></li></ul><h3 id="What-are-the-hard-parts"><a href="#What-are-the-hard-parts" class="headerlink" title="What are the hard parts?"></a>What are the hard parts?</h3><ul><li><p>Getting into contact with ‘upstream Mentors’. Time zones and online availability are factors that can impact the process.</p></li><li><p>Large projects will take a longer time to analyze. Knowing the exact process to contribute may take more time to </p></li><li><p>Keeping in communication with team members while working on the analysis itself can be difficult.</p></li></ul><h3 id="How-will-you-overcome-both"><a href="#How-will-you-overcome-both" class="headerlink" title="How will you overcome both?"></a>How will you overcome both?</h3><p>By Tuesday, we seek to complete the task distribution and team proposal documents. </p><p>By Wednesday, we seek to complete each of our analyses and discuss our conclusions for each of the answers.</p><p>By Thursday, we’ll take our individual write-up and put together a presentation to showcase in class on Friday.</p><p>On Friday, we’ll present our findings.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+          <category> hfoss </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> class </tag>
+            
+            <tag> documentation </tag>
+            
+            <tag> architecture </tag>
+            
+            <tag> analysis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HFOSS - Quiz 1</title>
+      <link href="/blog/quiz-1/"/>
+      <url>/blog/quiz-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Quiz-1"><a href="#Quiz-1" class="headerlink" title="Quiz 1"></a>Quiz 1</h1><h2 id="Short-Answer"><a href="#Short-Answer" class="headerlink" title="Short Answer"></a>Short Answer</h2><p><strong>1) Please expand each of the following acronyms (1 pt each):</strong></p><p>1.1) IRC - <code>Internet Relay Chat</code><br>1.2) FOSS - <code>Free and Open Source Software</code><br>1.3) OLPC - <code>One Laptop Per Child</code><br>1.4) PR - <code>Pull Request</code></p><p>(Please use the expansion most appropriate to the class.)</p><p><em>Bonus: Give the expansion for the acronym GNU. (1 pt)</em></p><p>GNU - <code>GNU Not Unix</code></p><p><strong>2) What is the name of the version control system we use in this course? (1 pt)</strong></p><p><code>Git.</code></p><p><em>Bonus: Give the name for another version control system. (1 pt)</em></p><p><code>Mercurial</code></p><p><strong>3) Please give the one-word name for the interface used in the OLPC computers &amp; our VMs? (1 pt)</strong></p><p><code>Sugar.</code></p><p><strong>4) <em>Bonus: What is the short, two-letter name for the OLPC computers for which this desktop software was first developed? (1 pt)</em></strong></p><p><code>XO.</code></p><p><strong>5) We refer to sites that host source code as “forges”. What is the name of the primary forge used in this course? (1 pt)</strong></p><p><code>GitLab.</code></p><p><strong>6) <em>Bonus: Name the other forge we have used? (1 pt)</em></strong></p><p><code>GitHub.</code></p><p><strong>7) <em>Bonus: Name another forge, one we have not used for this course. (1 pt)</em></strong></p><p><code>BitBucket.</code></p><h2 id="Multiple-choice"><a href="#Multiple-choice" class="headerlink" title="Multiple choice"></a>Multiple choice</h2><p><strong>8) The GitHub-specific term to describe the process in which, starting from one repository hosted at GitHub, one creates another repository, also hosted at GitHub, but under the control of a different user account. (1 pt)</strong></p><p><code>d) fork</code></p><p><strong>9) A collection of related commit objects (1 pt)</strong></p><p><code>a) repository</code></p><p><strong>10) A separate, but related, repository from which one may fetch or pull changes into one’s own working copy, and to which one possibly has permission to push changes. (1 pt)</strong></p><p><code>c) remote</code></p><p><strong>11) The general term in git for making an exact, working copy of another repository in which changes can be tracked separately between the two versions. (1 pt)</strong></p><p><code>d) fork</code></p><p><strong>12) A namespace in which one can track changes to a set of files within a given repository. This term applies both to the action and to the result of the action. Comparisons (‘diffs’ or patches) can be made between different such namespaces. (1 pt)</strong></p><p><code>b) branch</code></p><p><strong>13) <em>Consider the following (+1 for each correct, -1 for each incorrect):</em></strong></p><p>a) <code>e59b627</code><br>b) <code>451.867</code><br>c) <code>dca_079</code><br>d) <code>9539807</code><br>e) <code>DB6A60A</code><br>f) <code>614@1d4</code><br>g) <code>be34fb47c60d</code></p><p><em>Looking just at the string of non-space characters to the right of the close-parenthesis …</em></p><p><strong>List which of these could be a valid commit identifier?</strong></p><p><code>Choices (a), (e), and (g).</code></p><p><strong>14) We’ve discussed “the four R’s” as a shorthand for the freedoms attached to software for it to be considered “free” or “open source”.</strong></p><p><em>List or describe each. (eg, if you can remember the “r” word you can just give that. If you cannot remember the term, but can describe the freedom involved, that also counts).</em></p><p><em>Various “r” words are roughly synonymous for some of the freedoms, but we’re counting freedoms here, not synonyms so if you give two (or more) terms for the same freedom, it only counts once. For the purposes of this quiz, “remix” does not count as describing any of them. (2 pt each)</em></p><p>10.1) <code>Run</code></p><p>10.2) <code>Read</code></p><p>10.3) <code>Repair</code></p><p>10.4) <code>Redistribute</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> quiz, hfoss </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Literature Review #2: Roads and Bridges</title>
       <link href="/blog/hfoss/lit-review-2/"/>
       <url>/blog/hfoss/lit-review-2/</url>
@@ -26,11 +80,13 @@
             
             <tag> class </tag>
             
+            <tag> documentation </tag>
+            
+            <tag> reading </tag>
+            
             <tag> bugs </tag>
             
             <tag> issues </tag>
-            
-            <tag> documentation </tag>
             
         </tags>
       
@@ -98,9 +154,9 @@
             
             <tag> class </tag>
             
-            <tag> documentation </tag>
-            
             <tag> game development </tag>
+            
+            <tag> documentation </tag>
             
             <tag> game engine </tag>
             
@@ -135,11 +191,13 @@
             
             <tag> class </tag>
             
+            <tag> documentation </tag>
+            
+            <tag> reading </tag>
+            
             <tag> bugs </tag>
             
             <tag> issues </tag>
-            
-            <tag> documentation </tag>
             
         </tags>
       
@@ -218,6 +276,35 @@
     
     
     <entry>
+      <title>Next Steps</title>
+      <link href="/blog/hfoss/next-steps/"/>
+      <url>/blog/hfoss/next-steps/</url>
+      
+        <content type="html"><![CDATA[<h1 id="The-Way-It-Goes"><a href="#The-Way-It-Goes" class="headerlink" title="The Way It Goes"></a>The Way It Goes</h1><p>I recently read <a href="https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n" target="_blank" rel="noopener">25 years of coding, and I’m just beginning</a> by dev.to user DeChamp, and found some intriguing responses across the web. One particular <a href="https://www.pskirko.com/2019/01/20/re-25-years-of-coding/" target="_blank" rel="noopener">Re:</a> came from <a href="https://www.pskirko.com/" target="_blank" rel="noopener">Peter Skirko</a>. Rather than read back the very relatable thoughts and ideas they both covered, as pertains to development, I thought I’d begin with it to share where my mental state has recently turned to.</p><a id="more"></a><h2 id="The-Next-Steps"><a href="#The-Next-Steps" class="headerlink" title="The Next Steps"></a>The Next Steps</h2><p>I chose to use the <a href="https://jamstack.org" target="_blank" rel="noopener">JAMStack</a> to <a href="/blog/hfoss/hello-world/" title="build my website">build my website</a> because it should be quick, painless, and easy to write posts and get them published to the live site. This post, in some ways, is a test of that. That brings me to figuring out the next steps for my blog. While I want to add much, much more in terms of a portfolio, at the time of making this post, this site is half-baked. I’m afraid that if someone comes onto the website in its current state, it’ll reflect poorly on my own work. <em>But, maybe that’s the motivation I’ve been looking for.</em></p><p><strong>I think that it’s time to keep working.</strong> By that, I mean I need to cover up the potholes and make sure that I finish what I start - all before I add more features. This means cleaning up broken links and adding little bits at a time. Keeping the momentum in building this living site will ensure that I learn more about the Hexo static-site generator as time goes on. Maybe, I’ll contribute additional resources to the generator’s documentation wherever I can!</p><h2 id="Roadmap"><a href="#Roadmap" class="headerlink" title="Roadmap"></a>Roadmap</h2><ul><li>Clean up any missing links/pages/sections. (This will require getting acquainted with some of Hexo’s features).</li><li>Add an About page.</li><li>Learn more about the .ejs template language that came with this blog’s theme!</li><li>Customize the theme!?!?</li><li>Read up about schema! (I’ll be looking at <a href="https://schema.org/docs/gs.html#microdata_how" target="_blank" rel="noopener">schema.org</a>.)</li><li>Continue writing this Roadmap!</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+          <category> hfoss </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> personal </tag>
+            
+            <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>It Started With a Bang!</title>
       <link href="/blog/hfoss/hello-world/"/>
       <url>/blog/hfoss/hello-world/</url>
@@ -241,35 +328,6 @@
             <tag> class </tag>
             
             <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Next Steps</title>
-      <link href="/blog/hfoss/next-steps/"/>
-      <url>/blog/hfoss/next-steps/</url>
-      
-        <content type="html"><![CDATA[<h1 id="The-Way-It-Goes"><a href="#The-Way-It-Goes" class="headerlink" title="The Way It Goes"></a>The Way It Goes</h1><p>I recently read <a href="https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n" target="_blank" rel="noopener">25 years of coding, and I’m just beginning</a> by dev.to user DeChamp, and found some intriguing responses across the web. One particular <a href="https://www.pskirko.com/2019/01/20/re-25-years-of-coding/" target="_blank" rel="noopener">Re:</a> came from <a href="https://www.pskirko.com/" target="_blank" rel="noopener">Peter Skirko</a>. Rather than read back the very relatable thoughts and ideas they both covered, as pertains to development, I thought I’d begin with it to share where my mental state has recently turned to.</p><a id="more"></a><h2 id="The-Next-Steps"><a href="#The-Next-Steps" class="headerlink" title="The Next Steps"></a>The Next Steps</h2><p>I chose to use the <a href="https://jamstack.org" target="_blank" rel="noopener">JAMStack</a> to <a href="/blog/hfoss/hello-world/" title="build my website">build my website</a> because it should be quick, painless, and easy to write posts and get them published to the live site. This post, in some ways, is a test of that. That brings me to figuring out the next steps for my blog. While I want to add much, much more in terms of a portfolio, at the time of making this post, this site is half-baked. I’m afraid that if someone comes onto the website in its current state, it’ll reflect poorly on my own work. <em>But, maybe that’s the motivation I’ve been looking for.</em></p><p><strong>I think that it’s time to keep working.</strong> By that, I mean I need to cover up the potholes and make sure that I finish what I start - all before I add more features. This means cleaning up broken links and adding little bits at a time. Keeping the momentum in building this living site will ensure that I learn more about the Hexo static-site generator as time goes on. Maybe, I’ll contribute additional resources to the generator’s documentation wherever I can!</p><h2 id="Roadmap"><a href="#Roadmap" class="headerlink" title="Roadmap"></a>Roadmap</h2><ul><li>Clean up any missing links/pages/sections. (This will require getting acquainted with some of Hexo’s features).</li><li>Add an About page.</li><li>Learn more about the .ejs template language that came with this blog’s theme!</li><li>Customize the theme!?!?</li><li>Read up about schema! (I’ll be looking at <a href="https://schema.org/docs/gs.html#microdata_how" target="_blank" rel="noopener">schema.org</a>.)</li><li>Continue writing this Roadmap!</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
-          
-          <category> hfoss </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> personal </tag>
-            
-            <tag> js </tag>
             
         </tags>
       
