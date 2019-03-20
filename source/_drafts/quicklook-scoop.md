@@ -1,5 +1,5 @@
 ---
-title: 'Quicklook: What's The Scoop?'
+title: "Quicklook: What's The Scoop?"
 tags:
 - open-source
 - class

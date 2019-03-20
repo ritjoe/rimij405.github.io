@@ -1,5 +1,5 @@
 ---
-title: 'Quicklook: SONY's Open Source Surprise - OpenColorIO'
+title: "Quicklook: SONY's Open Source Surprise - OpenColorIO"
 tags:
 - open-source
 - class
