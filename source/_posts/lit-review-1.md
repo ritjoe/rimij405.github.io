@@ -9,6 +9,7 @@ tags:
 - bugs
 - issues
 - documentation
+- reading
 photos:
 - /images/posts/lit-review-1/documentation.jpg
 ---

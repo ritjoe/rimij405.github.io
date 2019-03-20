@@ -7,6 +7,7 @@ tags:
   - bugs
   - issues
   - documentation
+  - reading
 categories:
   - [blog, hfoss]
 ---
