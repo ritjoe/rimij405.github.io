@@ -4,6 +4,76 @@
   
     
     <entry>
+      <title>Read It! The Architecture of Open Source Applications</title>
+      <link href="/blog/hfoss/reading-oss-arch/"/>
+      <url>/blog/hfoss/reading-oss-arch/</url>
+      
+        <content type="html"><![CDATA[<h1 id="The-Architecture-of-Open-Source-Applications"><a href="#The-Architecture-of-Open-Source-Applications" class="headerlink" title="The Architecture of Open Source Applications"></a>The Architecture of Open Source Applications</h1><p>This anthology of software development and general programming books have a focus on exploring open source applications and the way they are built.</p><h2 id="Who-created-this"><a href="#Who-created-this" class="headerlink" title="Who created this?"></a>Who created this?</h2><p><em>The Architecture of Open Source Applications</em> - AOSA for short - has several editors and contributors. Dozens of volunteers work to create the book and maintain it. </p><p>The AOSA editors maintain a <a href="http://aosabook.org/blog/" target="_blank" rel="noopener">blog</a> and a Twitter account via <a href="http://twitter.com/aosabook" target="_blank" rel="noopener">@aosabook</a>.</p><p>If you want to contact the editors with questions, suggestions, or a desire to contribute, you can <a href="aosa@aosabook.org">email</a> AOSA as well.</p><h2 id="What’s-inside"><a href="#What’s-inside" class="headerlink" title="What’s inside?"></a>What’s inside?</h2><p>There are several volumes published by AOSA’s editors convering a wide range of topics.</p><p>In the first volume: <em>Elegance, Evolution, and a Few Fearless Hacks</em>, edited by Amy Brown and Greg Wilson, the book attempts to draw a parallel between building architecture and software architecture, making a significant case for developers to learn from the codebase of large-scale open source software projects.</p><p>Published a year later, in volume 2, <em>Structure, Scale, and a Few More Fearless Hacks</em>, editors Brown and Wilson followed up with several more examples that exemplified software development at scale.</p><p>The third volume, <em>The Performance of Open Source Applications: Speed, Precision, and a Bit of Serendipity</em>, this time edited by Tavish Armstrong, is a collection of case studies in identifying performance bottlenecks in real-life examples and improving them to meet the growing demands of mobile and network development.</p><p>In the fourth and most recent volume, <em>500 Lines or Less</em>, editor Michael DiBernardo steps back from the large-scale open source giants and refocuses the critical lens on the small projects where developers are starting from scratch. Each chapter is a case study - in programs written especially for the book - that encourages readers to consider their own approaches, considerations, and constraints when developing a new application.</p><h2 id="Who-is-the-audience"><a href="#Who-is-the-audience" class="headerlink" title="Who is the audience?"></a>Who is the audience?</h2><p>The AOSA series targets junior developers seeking enrichment and senior developers seeking industry reference. Just as architects are expected to learn from their masterful peers, AOSA’s editors believe that developers have a lot to learn from each other and can skip making the same mistakes for solved problems.</p><h2 id="Where-can-you-find-it"><a href="#Where-can-you-find-it" class="headerlink" title="Where can you find it?"></a>Where can you find it?</h2><p>The series is available for free, online at AOSA’s <a href="http://aosabook.org/en/index.html" target="_blank" rel="noopener">website</a>. Each volume is also available in paperback, epub, and PDF formats at cost - all royalties from sales are donated to <a href="http://amnesty.org/" target="_blank" rel="noopener">Amnesty International</a>. If you’re interested in picking up a print or epub version of the material, it’s suggested you purchase throug Lulu.com instead of through Amazon or another retailer.</p><h2 id="How-much-time-would-you-be-putting-in"><a href="#How-much-time-would-you-be-putting-in" class="headerlink" title="How much time would you be putting in?"></a>How much time would you be putting in?</h2><p>There’s a lot of reading to be done, so, if you’re inclined to get into this work, you’ll need a lot of time if you hope to get through all four volumes.</p><h2 id="What’s-the-license"><a href="#What’s-the-license" class="headerlink" title="What’s the license?"></a>What’s the license?</h2><p>The AOSA series is made available under the <a href="http://creativecommons.org/licenses/by/3.0/legalcode" target="_blank" rel="noopener">Creative Commons Attribution 3.0 Unported</a> license.</p><h2 id="Is-it-possible-to-contribute"><a href="#Is-it-possible-to-contribute" class="headerlink" title="Is it possible to contribute?"></a>Is it possible to contribute?</h2><p>If you’re interested in contributing, it is suggested that you contact AOSA by email. The editors are always looking for translators and volunteers who are interested in fixing the writing itself.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+          <category> hfoss </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> class </tag>
+            
+            <tag> architecture </tag>
+            
+            <tag> documentation </tag>
+            
+            <tag> reading </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Literature Review #3: NYS Next Generation Mathematics Learning Standards</title>
+      <link href="/blog/hfoss/lit-review-3/"/>
+      <url>/blog/hfoss/lit-review-3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Review-NYS-Next-Generation-Mathematics-Learning-Standards"><a href="#Review-NYS-Next-Generation-Mathematics-Learning-Standards" class="headerlink" title="Review: NYS Next Generation Mathematics Learning Standards"></a>Review: NYS Next Generation Mathematics Learning Standards</h1><p>In this literature review, HFOSS students were asked to review the education standards for New York State’s mathematics curriculae. This is in preparation for our final project.</p><a id="more"></a><hr><h2 id="The-Basics"><a href="#The-Basics" class="headerlink" title="The Basics"></a>The Basics</h2><p>The <em>New York State Next Generation Mathematics Learning Standards</em> reflect the mathematic standards of New York State. They are, “designed to support student access to the knowledge and understanding of the mathematical concepts that are necessary to function in a world very dependent upon the application of mathematics, while providing educators the opportunity to devise innovative programs to support this endeavor” (pp. 3). </p><p>Published by the New York State Department of Education, you can find the 2017 standards, <a href="http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/nys-next-generation-mathematics-p-12-standards.pdf" target="_blank" rel="noopener">here</a>.</p><p>Another document focused specifically on the Grade 4 standards can be found <a href="http://www.nysed.gov/common/nysed/files/math-revised-2017-standards-grade-4.pdf" target="_blank" rel="noopener">here</a>.</p><p>These standards were last revised in 2017.</p><hr><h2 id="The-Gist"><a href="#The-Gist" class="headerlink" title="The Gist"></a>The Gist</h2><p>For this particular review, students were asked to look at the overview for Grade 4 instruction. Essentially, the pedagogical focus of this section established focus around three areas:</p><ul><li>(1) Fluency with multi-digit multiplication and division.</li><li>(2) Familiarity with fraction arithmetic.</li><li>(3) Understanding of geometric figures and properties such as angles, perpendicularity, and symmetry.</li></ul><hr><h2 id="The-Good"><a href="#The-Good" class="headerlink" title="The Good"></a>The Good</h2><p>The standards provide detailed definitions that plainly lay out expectations of academic progress for students. Examples are clearly presented beside each entry of mathematical content.</p><hr><h2 id="The-Bad"><a href="#The-Bad" class="headerlink" title="The Bad"></a>The Bad</h2><p>The nature of standards to be exact and precise lends itself to being verbose. While this might be useful for identifying what an instructor needs to include when creating curriculum for the classroom, it’s takes a moment to grab the important information. Sections, like the one with a note on procedural fluency on page 59, are written in ways that make the purpose unclear. You might end up halfway through a paragraph before realizing it’s a redundant passage or is simply offering a lengthy ‘precise’ definition for a term that should have been defined earlier in the standard. </p><p>This, however, is something that academia suffers from and is not unique to this mathematics standard. The language used is complex and can definitely be simplified, often feeling like a form of ‘legalese’. This makes the writing less accessible to people who simply want to know what type of math needs to be taught to grade schoolers. </p><hr><h2 id="Q-amp-A"><a href="#Q-amp-A" class="headerlink" title="Q&amp;A"></a>Q&amp;A</h2><ul><li><p>What are some example problems that students would have to solve for a particular mathematical concept?</p></li><li><p>Are some problems more suited than others for teaching the subject at hand? As an example, are visual exercises with models and diagrams easier for students learning fraction arithmetic over word problems? Are both types necessary? If so, does the final product need to anticipate including them?</p></li></ul><h2 id="Follow-Up"><a href="#Follow-Up" class="headerlink" title="Follow-Up"></a>Follow-Up</h2><p>In this particular case, the take away is that Grade 4 students are expected to engage with fractional math and deal with multiplication/division arithmetic. For the final product, an activity on the Sugar platform that engages students with fractional math exercises may be a great choice of focus.</p><p>A visual representation of fraction multiplication and division might be one direction for an educational game. Another learning activity might deal with geometric properties and concepts. When coming up with a final project proposal for the course, referencing these mathematical practices will be helpful, making the standard an invaluable resource for that purpose.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+          <category> hfoss </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> class </tag>
+            
+            <tag> documentation </tag>
+            
+            <tag> math </tag>
+            
+            <tag> reading </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Community Archictecture Analysis: Team Proposal</title>
       <link href="/blog/hfoss/commarchteam/"/>
       <url>/blog/hfoss/commarchteam/</url>
@@ -26,9 +96,9 @@
             
             <tag> class </tag>
             
-            <tag> documentation </tag>
-            
             <tag> architecture </tag>
+            
+            <tag> documentation </tag>
             
             <tag> analysis </tag>
             
@@ -154,9 +224,9 @@
             
             <tag> class </tag>
             
-            <tag> documentation </tag>
-            
             <tag> game development </tag>
+            
+            <tag> documentation </tag>
             
             <tag> game engine </tag>
             

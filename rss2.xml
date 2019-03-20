@@ -8,8 +8,42 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Wed, 20 Mar 2019 05:55:46 GMT</pubDate>
+    <pubDate>Wed, 20 Mar 2019 08:24:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Read It! The Architecture of Open Source Applications</title>
+      <link>http://rimij405.github.io/blog/hfoss/reading-oss-arch/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/reading-oss-arch/</guid>
+      <pubDate>Wed, 20 Mar 2019 08:24:11 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;The-Architecture-of-Open-Source-Applications&quot;&gt;&lt;a href=&quot;#The-Architecture-of-Open-Source-Applications&quot; class=&quot;headerlink&quot; title=&quot;The
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/reading-oss-arch/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Literature Review #3: NYS Next Generation Mathematics Learning Standards</title>
+      <link>http://rimij405.github.io/blog/hfoss/lit-review-3/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/lit-review-3/</guid>
+      <pubDate>Wed, 20 Mar 2019 07:32:31 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;Review-NYS-Next-Generation-Mathematics-Learning-Standards&quot;&gt;&lt;a href=&quot;#Review-NYS-Next-Generation-Mathematics-Learning-Standards&quot; class=&quot;headerlink&quot; title=&quot;Review: NYS Next Generation Mathematics Learning Standards&quot;&gt;&lt;/a&gt;Review: NYS Next Generation Mathematics Learning Standards&lt;/h1&gt;&lt;p&gt;In this literature review, HFOSS students were asked to review the education standards for New York State’s mathematics curriculae. This is in preparation for our final project.&lt;/p&gt;
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/lit-review-3/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Community Archictecture Analysis: Team Proposal</title>
