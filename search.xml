@@ -4,6 +4,43 @@
   
     
     <entry>
+      <title>Quicklook: SONY&#39;s Open Source Surprise - OpenColorIO</title>
+      <link href="/blog/hfoss/quicklook-sony-oss/"/>
+      <url>/blog/hfoss/quicklook-sony-oss/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Sony’s-OpenColorIO"><a href="#Sony’s-OpenColorIO" class="headerlink" title="Sony’s OpenColorIO"></a>Sony’s OpenColorIO</h1><p>Sony Pictures Imageworks, the visual effects and animation studio belonging to Sony, has open-sourced <em><a href="http://opencolorio.org/" target="_blank" rel="noopener">OpenColorIO</a></em>, a tool used to help create movies like the Academy-award winning <em>Spider-Man: Into the Spider-Verse</em>, <em>Hotel Transylvania 3</em>, <em>Alice in Wonderland</em>, and <em>Cloudy with a Chance of Meatballs</em>. </p><h2 id="What-is-this-software"><a href="#What-is-this-software" class="headerlink" title="What is this software?"></a>What is this software?</h2><p><em>OpenColorIO</em> (OCIO) is a color management software suited for motion picture production that emphasizes visual effects and computer animation. It is compatible with the Academy Color Encoding Specification (ACES), an industry-standard. </p><p>Sony has contributed the tool to the <a href="https://www.aswf.io/" target="_blank" rel="noopener">Academy Software Foundation</a> (ASWF), an organization founded in August of 2018 with a focus on improving the quality of the film industry’s open source software.</p><p><em>OpenColorIO</em> is now under a modified BSD license. </p><p>Those interested in contributing can take a look at the <a href="http://opencolorio.org/developers/index.html" target="_blank" rel="noopener">developer’s guide</a> on their website for the system. There are also a couple of mailing lists posted for those interested in collaborating.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+          <category> hfoss </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> open-source </tag>
+            
+            <tag> class </tag>
+            
+            <tag> quicklook </tag>
+            
+            <tag> graphics </tag>
+            
+            <tag> film </tag>
+            
+            <tag> imaging </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Read It! The Architecture of Open Source Applications</title>
       <link href="/blog/hfoss/reading-oss-arch/"/>
       <url>/blog/hfoss/reading-oss-arch/</url>
@@ -63,9 +100,9 @@
             
             <tag> documentation </tag>
             
-            <tag> math </tag>
-            
             <tag> reading </tag>
+            
+            <tag> math </tag>
             
         </tags>
       
@@ -152,11 +189,11 @@
             
             <tag> documentation </tag>
             
-            <tag> reading </tag>
-            
             <tag> bugs </tag>
             
             <tag> issues </tag>
+            
+            <tag> reading </tag>
             
         </tags>
       
@@ -263,11 +300,11 @@
             
             <tag> documentation </tag>
             
-            <tag> reading </tag>
-            
             <tag> bugs </tag>
             
             <tag> issues </tag>
+            
+            <tag> reading </tag>
             
         </tags>
       

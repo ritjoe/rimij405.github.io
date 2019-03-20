@@ -8,8 +8,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Wed, 20 Mar 2019 08:24:11 GMT</pubDate>
+    <pubDate>Wed, 20 Mar 2019 08:46:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Quicklook: SONY&#39;s Open Source Surprise - OpenColorIO</title>
+      <link>http://rimij405.github.io/blog/hfoss/quicklook-sony-oss/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/quicklook-sony-oss/</guid>
+      <pubDate>Wed, 20 Mar 2019 08:46:02 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;Sony’s-OpenColorIO&quot;&gt;&lt;a href=&quot;#Sony’s-OpenColorIO&quot; class=&quot;headerlink&quot; title=&quot;Sony’s OpenColorIO&quot;&gt;&lt;/a&gt;Sony’s OpenColorIO&lt;/h1&gt;&lt;p&gt;Sony
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/quicklook-sony-oss/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Read It! The Architecture of Open Source Applications</title>
