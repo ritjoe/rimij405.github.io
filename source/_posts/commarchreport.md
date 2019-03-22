@@ -26,9 +26,9 @@ This report showcases the findings of such an analysis on the KDevelop project. 
 
 As part of the KDE® family of applications, KDevelop is just another member of a well-established and robust free software community. The KDE® Community’s earliest form took shape as part of an [announcement](https://groups.google.com/forum/#!msg/de.comp.os.linux.misc/SDbiV3Iat_s/zv_D_2ctS8sJ) from Matthias Ettrich in October of 1996 — Ettrich was searching for developers interested in creating a, “consistant, nice looking free desktop-environment,” [*sic*] under the project titled: **Kool Desktop Environment**.
 
-## Team Members ##
-
 ![Konqi and friends; mascots of the KDE® family](/images/posts/commarchreport/konqi_friends.png)
+
+## Team Members ##
 
 Nic Hartley | [nxh9052@rit.edu](nxh9052@rit.edu)
 Joshua Schenk | [jks7743@rit.edu](jks7743@rit.edu)
@@ -322,7 +322,7 @@ In theory, anyone can contribute. Contributors who wish to join the project need
 
 **F.  What is your project's *Callaway Coefficient of Fail*?**
 
-- The source code is more than 100MB (19.72MB) [+0]
+- The source code is more than 100MB (18.8 MB uncompressed) [+0]
 - KDevelop uses git and cgit [+0]
 - KDevelop builds using kdesrc-build, which uses cmake [+0]
 - kdesrc-build takes care of dependencies for you, which you can choose to install manually if you want to, does not require users to build them either way [+0]
