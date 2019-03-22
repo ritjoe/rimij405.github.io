@@ -10,11 +10,15 @@ categories:
   - - blog
     - hfoss
 date: 2019-03-21 23:43:55
+photos:
+  - /images/posts/commarchreport/abstract-list-is-empty.png
 ---
 
 # Community Architecture Analysis #
 
 ## Background ##
+
+![KDevelop Logo](/images/posts/commarchreport/kdevelop_logo.png)
 
 As part of the Humanitarian Free and Open Source Software (HFOSS) course offered at RIT under the IGM program, students were split into separate groups in order to perform a community architecture analysis on a software project of their choice. This exercise serves to engage students with the practice of evaluating the health of open source community projects from various perspectives.
 
@@ -23,6 +27,8 @@ This report showcases the findings of such an analysis on the KDevelop project. 
 As part of the KDE® family of applications, KDevelop is just another member of a well-established and robust free software community. The KDE® Community’s earliest form took shape as part of an [announcement](https://groups.google.com/forum/#!msg/de.comp.os.linux.misc/SDbiV3Iat_s/zv_D_2ctS8sJ) from Matthias Ettrich in October of 1996 — Ettrich was searching for developers interested in creating a, “consistant, nice looking free desktop-environment,” [*sic*] under the project titled: **Kool Desktop Environment**.
 
 ## Team Members ##
+
+![Konqi and friends; mascots of the KDE® family](/images/posts/commarchreport/konqi_friends.png)
 
 Nic Hartley | [nxh9052@rit.edu](nxh9052@rit.edu)
 Joshua Schenk | [jks7743@rit.edu](jks7743@rit.edu)
@@ -38,11 +44,15 @@ Ian Effendi | [iae2784@rit.edu](iae2784@rit.edu)
 
 ## Alternative Analysis Results ##
 
+![Abstract image representing successful thoughts.](/images/posts/commarchreport/abstract-order-complete.png)
+
 ### About The ‘Openness Rating’ Tool ###
 
 Our alternative tool for the community architecture analysis is the Openness Rating review, created by OSS Watch, an independent, non-advocacy service provided by free and open source software consultants. As said on their homepage, “OSS Watch provides unbiased advice and guidance on the use, development, and licensing of **free software**, **open source software**, and **open source hardware**.” [*emphasis theirs*] In partnership with [Pia Andrews](http://pipka.org/standard-bio/) [@piawaugh](https://twitter.com/piawaugh), the Openness Rating tool is a diagnostic model that evaluates how ‘free and open’ a particular piece of software is.
 
 To perform an assessment, the tool asks questions as it pertains to the software’s legal issues, data formats and standards, available knowledge, project governance, and the market climate. These questions are based off of the paper *[Foundations of Openness](http://pipka.org/wp-content/uploads/2008/07/Foundations-of-openness-V2-release.pdf)*, written by Pia Andrews (publishing as Pia Waugh) and Randy Metcalfe, and are used by OSS Watch as part of their own consultancy work. Each question asked has a predefined set of answers - once all of the questions are selected, the tool is able to provide the ‘openness rating’ that serves as a benchmark for how free and open the software is.
+
+![OSS Watch Logo](/images/posts/commarchreport/osswatch_logo.png)
 
 #### Strengths ####
 
@@ -52,9 +62,13 @@ The ‘openness rating’ tool is great for establishing a quantitative measure 
 
 This tool is not well-suited for people who have never engaged with open source software before; while attempting to answer each question, it required a noticeable amount of overhead time spent researching things like ‘patent laws’. In other words, this isn’t a tool for beginners and, in most cases, might be overkill for someone looking for a simple answer in terms of how ‘open’ a software is. Although it is based off the model defined in *Foundations of Openness*, if you’re looking for a neat, clean little score, you won’t necessarily find it here. For projects with poor documentation, many of the answers can become subjective - ‘don’t know’ isn’t as much of a marker of a project’s openness than the analyst’s ignorance of the entire project’s scope. This makes it difficult when you’re trying to corroborate data format and standards across the relevant governing bodies without knowing where to begin.
 
+![Abstract image representing missed connections.](/images/posts/commarchreport/abstract-no-connection.png)
+
 ### Results ###
 
 The following sections list the question posed by the tool alongside the answer that best fits what we know about the KDevelop project.
+
+![Icon of a gavel. From icons8](/images/posts/commarchreport/icons8-law-64.png)
 
 #### Legal Issues ####
 
@@ -85,6 +99,8 @@ The following sections list the question posed by the tool alongside the answer 
 **Is the licensee required to make modified or unmodified source code available if they redistribute the code?**
 `Yes.`
 
+![Icon of a ruler and pencil. From icons8](/images/posts/commarchreport/icons8-design-64.png)
+
 #### Data Formats and Standards ####
 
 **Is there full public disclosure of the majority of data and communication formats used in the project?**
@@ -104,6 +120,8 @@ The following sections list the question posed by the tool alongside the answer 
 
 **Does the project support unicode through the use of encoding like UTF8?**
 `Yes.`
+
+![Icon of a stack of books. From icons8](/images/posts/commarchreport/icons8-books-64.png)
 
 #### Knowledge ####
 
@@ -157,6 +175,8 @@ The following sections list the question posed by the tool alongside the answer 
 **Are there documentation sources external to the project?**
 `2-4 good sources.`
 
+![Icon of a parliament building. From icons8](/images/posts/commarchreport/icons8-parliament-64.png)
+
 #### Project Governance ####
 
 **Is there clear leadership in the project?**
@@ -201,6 +221,8 @@ The following sections list the question posed by the tool alongside the answer 
 **Is there an avenue and structure for recourse beyond the project maintainers?**
 `Yes.`
 
+![Icon of a small business. From icons8](/images/posts/commarchreport/icons8-small-business-64.png)
+
 #### Market Climate ####
 
 **Are there any costs or barriers to setting up a business around the project?**
@@ -226,6 +248,8 @@ The following sections list the question posed by the tool alongside the answer 
 **How many organizations offer commercial software development and code customization services on the project?**
 `1.`
 
+![Icon of a brief overview. From icons8](/images/posts/commarchreport/icons8-brief-64.png)
+
 #### Summary ####
 
 The results are broken down for each category and are listed below:
@@ -242,47 +266,7 @@ These results can also be found [here](http://oss-watch.ac.uk/apps/openness/shar
 
 The ‘Openness Rating’ tool suggests that the KDevelop project is sustainable over the long run. The biggest challenge facing KDevelop’s longevity is in dealing with the market climate. Although a powerful and popular program, there isn’t much in the way of commercial support. KDevelop does have the influence of the KDE Community on its side: KDE developers are likely to support KDevelop as with any of the applications that remain a part of the KDE family.
 
-## Important Links ##
-
-IRC: [#kdevelop](https://webchat.freenode.net/?channels=kdevelop) on freenode
-
-Source:
-
-https://github.com/KDE/kdevelop
-https://cgit.kde.org/kdevelop.git *(Mirror repository)*
-https://github.com/krf/kdevelop *(Mirror repository)*
-
-Mailing List Archive(s): 
-
-https://mail.kde.org/pipermail/kdevelop/ , 
-https://mail.kde.org/pipermail/kdevelop-devel/
-
-Documentation:
-
-http://www.kdevelop.org/index.html?filename=HEAD/features.html *(Feature list)*
-http://www.kdevelop.org/index.html?filename=HEAD/requirements.html *(Requirements)*
-http://www.kdevelop.org/index.html?filename=HEAD/branches_compiling.html *(Compilation instructions)*
-http://api.kde.org/extragear-api/sdk-apidocs/kdevelop/doc/api/html *(KDevelop IDE API documentation)*
-http://api.kde.org/extragear-api/sdk-apidocs/kdevplatform/html *(KDevelop Platform API documentation)*
-https://userbase.kde.org/KDevelop4 *(User documentation)*
-https://techbase.kde.org/KDevelop5 *(Developer documentation)*
-
-Other Communication:
-
-https://forum.kde.org/viewforum.php?f=218 *(KDE KDevelop forum board)*
-https://reports.kde.org/en/projects/kdevelop-extragear-kdevelop/commits_report *(KDevelop commit breakdown by author)*
-https://bugs.kde.org/enter_bug.cgi?format=guided&product=kdevelop *(Bug tracking system for KDE community)*
-https://phabricator.kde.org/dashboard/view/8/ *(Phabricator instance for KDE family of applications)*
-
-Project Homepage:
-
-https://www.kdevelop.org/
-
-Developer Blogs:
-
-https://www.kdevelop.org/developer-blogs
-
-***
+![Konqi - the Dragon mascot for the KDE® family](/images/posts/commarchreport/konqi_default.png)
 
 ## Questions of Analysis ##
 
@@ -429,4 +413,58 @@ I dislike the lack of clarity surrounding the steps new contributors would need 
 
 The deck accompanying this report can be found [here](https://slides.com/iae2784/deck).
 
+![Abstract image reflecting joy and success.](/images/posts/commarchreport/abstract-success.png)
+
 *This presentation was made with the Slides platform. Slides is built with the help of many great open source frameworks and projects including [Iconic](http://somerandomdude.com/work/iconic/), [Font Awesome](http://fortawesome.github.com/Font-Awesome/), [Entypo](http://www.entypo.com/), [IcoMoon](http://icomoon.io/), [Broccolidry](http://icomoon.io/), [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/), [Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE), [jQuery](http://jquery.com/), [Ace](http://ace.c9.io/), [Modernizr](http://modernizr.com/), [Moment.js](http://momentjs.com/), [Spectrum](https://github.com/bgrins/spectrum) and [KaTeX](https://github.com/Khan/KaTeX). The developers contribute back to the community by maintaining [reveal.js](https://github.com/hakimel/reveal.js), an open source HTML presentation framework.*
+
+***
+
+## Important Links ##
+
+IRC: [#kdevelop](https://webchat.freenode.net/?channels=kdevelop) on freenode
+
+Source:
+
+https://github.com/KDE/kdevelop
+https://cgit.kde.org/kdevelop.git *(Mirror repository)*
+https://github.com/krf/kdevelop *(Mirror repository)*
+
+Mailing List Archive(s): 
+
+https://mail.kde.org/pipermail/kdevelop/ , 
+https://mail.kde.org/pipermail/kdevelop-devel/
+
+Documentation:
+
+http://www.kdevelop.org/index.html?filename=HEAD/features.html *(Feature list)*
+http://www.kdevelop.org/index.html?filename=HEAD/requirements.html *(Requirements)*
+http://www.kdevelop.org/index.html?filename=HEAD/branches_compiling.html *(Compilation instructions)*
+http://api.kde.org/extragear-api/sdk-apidocs/kdevelop/doc/api/html *(KDevelop IDE API documentation)*
+http://api.kde.org/extragear-api/sdk-apidocs/kdevplatform/html *(KDevelop Platform API documentation)*
+https://userbase.kde.org/KDevelop4 *(User documentation)*
+https://techbase.kde.org/KDevelop5 *(Developer documentation)*
+
+Other Communication:
+
+https://forum.kde.org/viewforum.php?f=218 *(KDE KDevelop forum board)*
+https://reports.kde.org/en/projects/kdevelop-extragear-kdevelop/commits_report *(KDevelop commit breakdown by author)*
+https://bugs.kde.org/enter_bug.cgi?format=guided&product=kdevelop *(Bug tracking system for KDE community)*
+https://phabricator.kde.org/dashboard/view/8/ *(Phabricator instance for KDE family of applications)*
+
+Project Homepage:
+
+https://www.kdevelop.org/
+
+Developer Blogs:
+
+https://www.kdevelop.org/developer-blogs
+
+![Abstract image representing mail.](/images/posts/commarchreport/abstract-message-sent.png)
+
+## References & Attributions ##
+
+[The 'Openness Rating' Tool](http://oss-watch.ac.uk/apps/openness/) - © 2007-2014 University of Oxford `CC BY-SA 4.0`.
+Git By a Lion (Fun fact, from an RIT alum). - © [Liam Middlebrook](https://github.com/liam-middlebrook) `GNU GPL ver. 3`.
+Illustrations of Konqi and friends - © [Tyson Tan](https://www.deviantart.com/tysontan) `CC BY-SA 4.0`.
+Icons and banner illustrations - © [icons8.com](https://icons8.com) `CC BY-ND 3.0`.
+Slideshow presentation platform - © 2019 [Slides, Inc.](https://slides.com/about?root=true) `All rights reserved.`.
