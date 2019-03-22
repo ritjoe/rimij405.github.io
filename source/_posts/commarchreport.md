@@ -1,14 +1,17 @@
 ---
-title: "Community Archictecture Analysis: KDevelop"
+title: 'Community Archictecture Analysis: KDevelop'
 tags:
-- open-source
-- class
-- architecture
-- documentation
-- analysis
+  - open-source
+  - class
+  - architecture
+  - documentation
+  - analysis
 categories:
-- [blog, hfoss]
+  - - blog
+    - hfoss
+date: 2019-03-21 23:43:55
 ---
+
 # Community Architecture Analysis #
 
 ## Background ##
@@ -27,13 +30,9 @@ Ian Effendi | [iae2784@rit.edu](iae2784@rit.edu)
 
 ## Git By a Bus Results ##
 
-— Pending results from Nic —
+### Total Risk By Person (top 10) ###
 
-***
-
-## Callaway Coefficient of Fail ##
-
-— Pending results from Joshua — 
+![Top 3 Contributor Risk: Aleix Pol, Kevil Funk, Peifeng Yu](/images/posts/commarchreport/gbal_top10.png)
 
 ***
 
@@ -41,19 +40,19 @@ Ian Effendi | [iae2784@rit.edu](iae2784@rit.edu)
 
 ### About The ‘Openness Rating’ Tool ###
 
-Our alternative tool for the community architecture analysis is the Openness Rating review, created by OSS Watch, an independent, non-advocacy service provided by free and open source software consultants. As said on their homepage, “OSS Watch provides unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware.” In partnership with [Pia Andrews](http://pipka.org/standard-bio/) [@piawaugh](https://twitter.com/piawaugh), the Openness Rating tool is a diagnostic model that evaluates how ‘free and open’ a particular piece of software is. Waugh 
+Our alternative tool for the community architecture analysis is the Openness Rating review, created by OSS Watch, an independent, non-advocacy service provided by free and open source software consultants. As said on their homepage, “OSS Watch provides unbiased advice and guidance on the use, development, and licensing of **free software**, **open source software**, and **open source hardware**.” [*emphasis theirs*] In partnership with [Pia Andrews](http://pipka.org/standard-bio/) [@piawaugh](https://twitter.com/piawaugh), the Openness Rating tool is a diagnostic model that evaluates how ‘free and open’ a particular piece of software is.
 
-To perform an assessment, the tool asks questions as it pertains to the software’s legal issues, data formats and standards, available knowledge, project governance, and the market climate. These questions are based off of the paper *[Foundations of Openness](http://pipka.org/wp-content/uploads/2008/07/Foundations-of-openness-V2-release.pdf)*, written by Pia Andrews (publishing as Pia Waugh) and Randy Metcalfe, and are used by OSS Watch as part of their own consultancy work. Each question asked has a predefined set of answers - once all of the questions are selected, the tool is able to provide the ‘openness rating’ that serves as a benchmark for how free and open the software is. 
+To perform an assessment, the tool asks questions as it pertains to the software’s legal issues, data formats and standards, available knowledge, project governance, and the market climate. These questions are based off of the paper *[Foundations of Openness](http://pipka.org/wp-content/uploads/2008/07/Foundations-of-openness-V2-release.pdf)*, written by Pia Andrews (publishing as Pia Waugh) and Randy Metcalfe, and are used by OSS Watch as part of their own consultancy work. Each question asked has a predefined set of answers - once all of the questions are selected, the tool is able to provide the ‘openness rating’ that serves as a benchmark for how free and open the software is.
 
 #### Strengths ####
 
-— Pending thoughts from Ian on strengths of this analysis tool — 
+The ‘openness rating’ tool is great for establishing a quantitative measure of how ‘FLOSS’ a software really is. This can be useful for those interested in starting a new open-source project — if they have an existing community project in mind, performing an analysis on that project can allow the new team to make educated choices regarding their work. The tool’s breakdown into separate categories also makes it relatively easy to look at the ‘openness’ of a particular area of the project — I might not particularly care about the governance for an open-source library if I’m not a contributor, so, I can focus my analysis on the legal ‘openness’ instead, as an example.
 
 #### Criticisms ####
 
-— Pending thoughts from Ian on weaknesses of this analysis tool. How can it be more effective? — 
+This tool is not well-suited for people who have never engaged with open source software before; while attempting to answer each question, it required a noticeable amount of overhead time spent researching things like ‘patent laws’. In other words, this isn’t a tool for beginners and, in most cases, might be overkill for someone looking for a simple answer in terms of how ‘open’ a software is. Although it is based off the model defined in *Foundations of Openness*, if you’re looking for a neat, clean little score, you won’t necessarily find it here. For projects with poor documentation, many of the answers can become subjective - ‘don’t know’ isn’t as much of a marker of a project’s openness than the analyst’s ignorance of the entire project’s scope. This makes it difficult when you’re trying to corroborate data format and standards across the relevant governing bodies without knowing where to begin.
 
-### Results ### 
+### Results ###
 
 The following sections list the question posed by the tool alongside the answer that best fits what we know about the KDevelop project.
 
@@ -155,11 +154,11 @@ The following sections list the question posed by the tool alongside the answer 
 **How good is the developer-specific public documentation?**
 `Minimal developer documentation.`
 
-
 **Are there documentation sources external to the project?**
 `2-4 good sources.`
 
 #### Project Governance ####
+
 **Is there clear leadership in the project?**
 `Yes.`
 
@@ -231,7 +230,7 @@ The following sections list the question posed by the tool alongside the answer 
 
 The results are broken down for each category and are listed below:
 
-```
+```javascript
 Legal Issues: 79%
 Data Formats & Standards: 69%
 Knowledge: 81%
@@ -285,9 +284,9 @@ https://www.kdevelop.org/developer-blogs
 
 ***
 
-## Community Architecture Analysis ##
+## Questions of Analysis ##
 
-A.  Describe software project, its purpose and goals.
+**A.  Describe software project, its purpose and goals.**
 
 KDevelop is a cross-platform, multi-language integrated development environment (IDE) under the KDE Community banner. KDevelop is free and open-source software, providing support for a variety of markup and programming languages through its extensible plugin-based architecture with additional localization support in several languages. 
 
@@ -300,7 +299,9 @@ Most KDevelop contributors are volunteers who work on the project in their spare
 
 KDevelop is a reliable and powerful environment for developers and is FLOSS software. As part of the KDE Community, this application also joins the goal of making a consistent Kool Desktop Environment.
 
-B.  Give brief history of the project. When was the Initial Commit? The latest commit?
+***
+
+**B.  Give brief history of the project. When was the Initial Commit? The latest commit?**
 
 The earliest days of KDevelop found its first 0.1 Alpha version announced on the [kde-announce](https://marc.info/?l=kde-announce&m=90648146015087&w=2) mailing list - on September 22nd, 1998, developers Sandy Meier, Stefan Heidrich, and Stefan Bartel hosted the unstable tarball package on KDE's FTP server. KDevelop has changed significantly since those early days, and its most recent long term support (LTS) incarnation - [KDevelop4](https://github.com/KDE/kdevelop/releases/tag/v4.0.1) - was released nine years ago on July 16th, 2010 ([Commit 79ca761...](https://github.com/KDE/kdevelop/commit/79ca7610af2e303d7ed8940d4fd3798b9786d96e)).
 
@@ -308,13 +309,17 @@ It wasn't until the next year, on January 9th, 1999, that the initial work start
 
 At the time of writing this entry, the most recent commit ([Commit d5e3e27...](https://github.com/KDE/kdevelop/commit/d5e3e27bb2720d84adda95de07a728a9e61c866f)) to KDevelop's [master](https://github.com/KDE/kdevelop) branch was authored yesterday by Thibault North ([@tnorth](https://github.com/tnorth)) - a member of the Fedora project based in Switzerland - and committed by Milian Wolff ([@milianw](https://github.com/milianw)) - a core developer of KDevelop based in Berlin, Germany. The most recent release, [v5.3.2](https://github.com/KDE/kdevelop/releases/tag/v5.3.2) ([Commit 48bdc10...](https://github.com/KDE/kdevelop/commit/48bdc10109ca5c0db6938b9eb89ea6890212cbf8)) was published by Kevin Funk ([@krf](https://github.com/krf)), a co-maintainer of the KDevelop project, based in Cologne, Germany.
 
-C.  Who approves patches? How many people?
+***
+
+**C.  Who approves patches? How many people?**
 
 According to the commit review reports on the project's [Phabricator](https://phabricator.kde.org/dashboard/view/8/) dashboard, there are a couple of consistent names that appear to be in charge of reviewing commits that are authored. While each of the core developers - Kevin Funk, Sven Brauch, Milian Wolff, and Aleix Pol Gonzalez - are listed as recurring reviewers, it seems that the option to review and approve patches are open to anyone willing to do the work.
 
 The KDE Community even provides [documentation](https://community.kde.org/Infrastructure/Phabricator#How_to_review_someone_else.27s_patch) for new contributors who are interested in reviewing patches and performing quality assurance on new commits and pull requests. In practice, there were *five* unique reviewers that would approve commits.
 
-D.  Who has commit access, or has had patches accepted?  How many total?
+***
+
+**D.  Who has commit access, or has had patches accepted?  How many total?**
 
 The GitHub [repository](https://github.com/KDE/kdevelop) (and by extension, its mirrors) list 282 unique contributors to the master branch (excluding merge commits). Of those contributors, only four contributors that have been active in the last three years have 1,000 or more commits. This being said, the numbers may be skewed as some core developers, like Milian Wolff, both author and approve patches. Of the contributors who are not presently reviewing patches through Phabricator, there are three with 1,000 or more commits. There are at least 25 other contributors with 100 or more commits over the lifetime of the project.
 
@@ -322,60 +327,101 @@ KDevelop's [homepage](https://www.kdevelop.org/kdevelop-team) lists 14 inactive 
 
 In theory, anyone can contribute. Contributors who wish to join the project need only [contact](https://www.kdevelop.org/contribute-kdevelop) the core and active developers via the IRC channel or developer mailing list. Those who have created a new patch without going through that process can also post a request directly to the project's Phabricator instance. It seems that anyone who follows the developer documentation and reaches out can gain access.
 
-E.  Who has the highest amounts of "Unique Knowledge?" (As per your "Git-by-a-bus" report. If there is a tie, list each contributor, with links if possible)
+***
 
-— Nic — 
+**E.  Who has the highest amounts of "Unique Knowledge?" *(As per your "Git-by-a-bus" report. If there is a tie, list each contributor, with links if possible)***
 
-F.  What is your project's "Calloway Coefficient of Fail?"
+- Aleix Pol (GitHub: [@aleixpol](https://github.com/aleixpol))
+- Kevin Funk (GitHub: [@krf](https://github.com/krf))
 
-— Joshua — 
+***
 
-G.  Has there been any turnover in the Core Team? (i.e. has the same top 20% of contributors stayed the same over time? If not, how has it changed?)
+**F.  What is your project's *Callaway Coefficient of Fail*?**
 
-— Joshua —
+- The source code is more than 100MB (19.72MB) [+0]
+- KDevelop uses git and cgit [+0]
+- KDevelop builds using kdesrc-build, which uses cmake [+0]
+- kdesrc-build takes care of dependencies for you, which you can choose to install manually if you want to, does not require users to build them either way [+0]
+- KDevelop installs on systems properly [+0]
+- There are no weird compilation exploits and all files were made to work with KDE so they had linux in mind [+0]
+- KDevelop has their own website, IRC, mailing list, and bug tracker that all seem to be working well [+0]
+- Releases, while infrequent, are well numbered and formatted. [+0]
+- KDevelop 5 is the 5th release of KDevelop, and Milian worked on that version quite a bit [+0]
+- Uses the GNU license [+0]
+- There’s a lot of documentation for KDevelop, some of it isn’t that well maintained (and they know it), but it’s there [+0]
+Total: 0
 
-H.  Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life) If not, what is the structure of its leadership, and how is it chosen?
+***
 
-— Joshua —
+**G.  Has there been any turnover in the Core Team? Has the same top 20% of contributors stayed the same over time? If not, how has it changed?**
 
-I.  Are the front and back end developers the same people? What is the proportion of each?
+Yes, the core team has changed quite a bit over the years, the contributions shifted from 2008-2012 the old KDevelop team stopped working on the project and another team picked it up. This was around the time when Kdevelop 4.x stopped development and KDevelop 5 development began in 2014. There’s a list of 12 inactive core developers and only 4 active ones. Kevin Funk, Sven Brauch, Milian Wolff, and Aleix Pol Gonzales are the current members of the core development team. The [about](https://www.kdevelop.org/kdevelop-team) page has information on all of the major contributors. 
 
-— Joshua —
+***
 
-J.  What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+**H.  Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life) If not, what is the structure of its leadership, and how is it chosen?**
 
-— Nic — 
+Kind of, Milian Wolff is the generic manager, while Kevin Funk and Sven Brauch have taken on the role of “Co-maintainers”. There's no indication of why they were given these roles other than them being pretty active in the git repositories. Funk and Milian seem to be the ones that write the release notes and Wolff takes care of the releases, so he's the closest to the BDFL.
 
-K.  How is the project's participation trending and why?
+***
 
-— Nic — 
+**I.  Are the front and back end developers the same people? What is the proportion of each?**
 
-L.  In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
+Sven Brauch, one of the Co-Maintainers works on User Interface improvements and python support. Hes ¼ of the team and does backend and frontend work. Two of the other members in the team, Woolff and Funk, also work on website development. Since Kdevelop has such a small core team, it's inevitable that the backend developers work on ui and web development. Since Sven is only responsible for “improvements”, it might not be a very time consuming role, allowing him to also work on Python support.
 
-— Nic — 
-M.  In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+***
 
-— Nic — 
+**J.  What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?**
 
-N.  Does the project have an official "on-boarding" process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
+KDevelop has had 40 reported bugs labeled as critical. Some of them come from dependency-related issues -- having the wrong version of Qt installed has caused a few critical bugs, and bugs in Qt have caused a few more. The work seems to be self-distributed among the contributors, or distributed through a channel other than the bug tracker -- very few bugs are officially assigned, and most are just eventually marked fixed with an explanation of the fix.
+
+***
+
+**K.  How is the project's participation trending and why?**
+
+KDevelop's participation has been trending downwards over the past few years. Only two of the four core developers commit regularly now, and one much more than the other. However, it still regularly sees bugs fixed and new features added. It's unclear why this is happening, but it seems likely that it's just because KDevelop isn't a massively popular IDE and the project has been around for a very long time.
+
+***
+
+**L.  In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?**
+
+Not easily. After processing their conflicted feelings -- raptors have been revived and someone just *died* to them -- they'd need to learn CMake to account for Aleix Pol's contributions. However, it would be possible to adapt and move on.
+
+***
+
+**M.  In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?**
+
+Almost definitely not. There's fairly little contribution from people outside of the core team, and those on the core team account for nearly half of the knowledge.
+
+***
+
+**N.  Does the project have an official "on-boarding" process in place? (New contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...).**
 
 There is a general [invitation](https://www.kdevelop.org/contribute-kdevelop) for contributors to contact developers on the IRC or through the mailing list if they want to get started. Unfortunately, there doesn't seem to be one, singular 'on-boarding' process that new contributors can utilize to get used to the process. A trip to the [linked documentation page](https://userbase.kde.org/KDevelop4) opens with another invitation for people to help extend the documentation itself; it can be overwhelming to join the project if you're not sure how to get started. The documentation that does point to something useful for new contributors was found on a [mirror repository](https://github.com/krf/kdevelop), as opposed to the main one.
 
-O.  Does the project have Documentation available? How extensive is it? Does it include code examples?
+***
+
+**O.  Does the project have Documentation available? How extensive is it? Does it include code examples?**
 
 There is several avenues for documentation - including for users, developers, and translators that are a part of the localization effort. Unfortunately, since the release of KDevelop5, the most recent documentation for developers and users has been lacking. With that said, KDevelop4 has been documented extensively. Discussion about using KDevelop also takes place across the many blogs by developers; KDevelop's homepage provides access to an [aggregate list](https://www.kdevelop.org/developer-blogs) that pulls from some of them.
 
-P.  If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
+***
+
+**P.  If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?**
 
 The core developers via IRC or the mailing list. Technically, you could contact the developers directly via their email, however, there's a better chance of getting a timely response when sending this feedback through the mailing list. In addition, conversations about challenges in the public space are healthier for the growth of any FLOSS community - archived discussions in the public space allow future developers the opportunity to learn from the past.
 
-Q.  Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
+***
 
-— Joshua —
+**Q.  Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?**
 
-R.  Is this the kind of structure you would enjoy working in? Why, or why not?
+The structure of this project seems to be both ruled and maintained by a small group of people. It seems that aside from the 4 team members, there are only two other active contributors. Everyone else is either inactive or not acknowledged by the core team. While it seems like the team would like to have more contributors to help with the project, it seems like it would be difficult to start working on.
 
-— Personal responses required for this question. — 
+***
+
+**R.  Is this the kind of structure you would enjoy working in? Why, or why not?**
+
+I dislike the lack of clarity surrounding the steps new contributors would need to take in order to get involved. Documentation is important for large projects, but, it often seems that development is currently outpacing the speed of the developer documentation itself. The current codebase is so far removed from the initial 1.0 release, that, you’d need to engage with the core developers (who are all in a different timezone) in order to be introduced to how everything works. This could be solved with an on-boarding process for new contributors. From there, it seems they are pretty open to developers patching as they want to, but, it’s hard to gauge the social dynamics of the most recent active contributors - unfortunately, the mailing list rarely is geared towards new participants.
 
 ***
 
@@ -384,4 +430,3 @@ R.  Is this the kind of structure you would enjoy working in? Why, or why not?
 The presentation is being created [here](https://slides.com/iae2784/deck). It is made with the Slides platform.
 
 Slides is built with the help of many great open source frameworks and projects including [Iconic](http://somerandomdude.com/work/iconic/), [Font Awesome](http://fortawesome.github.com/Font-Awesome/), [Entypo](http://www.entypo.com/), [IcoMoon](http://icomoon.io/), [Broccolidry](http://icomoon.io/), [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/), [Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE), [jQuery](http://jquery.com/), [Ace](http://ace.c9.io/), [Modernizr](http://modernizr.com/), [Moment.js](http://momentjs.com/), [Spectrum](https://github.com/bgrins/spectrum) and [KaTeX](https://github.com/Khan/KaTeX). The developers contribute back to the community by maintaining [reveal.js](https://github.com/hakimel/reveal.js), an open source HTML presentation framework.
-
