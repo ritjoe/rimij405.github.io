@@ -1,5 +1,5 @@
 ---
-title: 'Community Archictecture Analysis: KDevelop'
+title: 'Community Architecture Analysis: KDevelop'
 tags:
   - open-source
   - class
