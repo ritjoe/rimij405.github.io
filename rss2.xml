@@ -8,8 +8,48 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Wed, 20 Mar 2019 08:46:02 GMT</pubDate>
+    <pubDate>Tue, 26 Mar 2019 06:05:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Quicklook: RIT Student Government Goes Open-Source</title>
+      <link>http://rimij405.github.io/blog/hfoss/quicklook-sgos/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/quicklook-sgos/</guid>
+      <pubDate>Tue, 26 Mar 2019 05:59:48 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;Quicklook-RIT-Student-Government-Goes-Open-Source&quot;&gt;&lt;a href=&quot;#Quicklook-RIT-Student-Government-Goes-Open-Source&quot; class=&quot;headerlink&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/quicklook-sgos/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Community Architecture Analysis: KDevelop</title>
+      <link>http://rimij405.github.io/blog/hfoss/commarchreport/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/commarchreport/</guid>
+      <pubDate>Fri, 22 Mar 2019 03:43:55 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;Community-Architecture-Analysis&quot;&gt;&lt;a href=&quot;#Community-Architecture-Analysis&quot; class=&quot;headerlink&quot; title=&quot;Community Architecture
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/commarchreport/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Quicklook: SONY&#39;s Open Source Surprise - OpenColorIO</title>
