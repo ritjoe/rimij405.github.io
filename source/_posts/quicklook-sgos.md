@@ -1,15 +1,20 @@
 ---
-title: "Quicklook: RIT Student Government Goes Open-Source"
+title: 'Quicklook: RIT Student Government Goes Open-Source'
 tags:
-- open-source
-- github
-- RIT
-- Student Government
-- university
-- quicklook
-categories: 
-- [blog, hfoss]
+  - open-source
+  - github
+  - RIT
+  - Student Government
+  - university
+  - quicklook
+categories:
+  - - blog
+    - hfoss
+date: 2019-03-26 01:59:48
+photos:
+- /images/posts/sgos/sgmain-logo-orangewhite.png
 ---
+
 
 # Quicklook: RIT Student Government Goes Open-Source #
 
@@ -17,7 +22,7 @@ categories:
 
 ## About Student Government ##
 
-RIT Student Government (SG), one of the university's shared governance groups, advocates on behalf of the undergraduates and graduates, serving as a liaison between the students, faculty, staff, and administration. 
+[RIT Student Government](https://sg.rit.edu/) (SG), one of the university's shared governance groups, advocates on behalf of the undergraduates and graduates, serving as a liaison between the students, faculty, staff, and administration. 
 
 Student Government's mission often births technology services that members of its Technology Committee develop in attempts to solve problems that students on campus may have. 
 
