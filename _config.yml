@@ -149,7 +149,7 @@ deploy:
   type: git
   repo: https://github.com/rimij405/rimij405.github.io.git
   branch: master
-  message:
+  message: Deploy live site to production.
   name: rimij405
   email: effendiian@gmail.com
   
