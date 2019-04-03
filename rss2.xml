@@ -8,8 +8,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>An exploration of thought, code architecture, open source culture, design, development, and more.</description>
-    <pubDate>Wed, 03 Apr 2019 03:59:47 GMT</pubDate>
+    <pubDate>Wed, 03 Apr 2019 05:18:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Quicklook: What&#39;s The Scoop?</title>
+      <link>http://rimij405.github.io/blog/hfoss/quicklook-scoop/</link>
+      <guid>http://rimij405.github.io/blog/hfoss/quicklook-scoop/</guid>
+      <pubDate>Wed, 03 Apr 2019 05:18:07 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;What’s-the-Scoop&quot;&gt;&lt;a href=&quot;#What’s-the-Scoop&quot; class=&quot;headerlink&quot; title=&quot;What’s the Scoop?&quot;&gt;&lt;/a&gt;What’s the Scoop?&lt;/h1&gt;&lt;p&gt;&lt;a
+          
+        
+      
+      </description>
+      
+      <comments>http://rimij405.github.io/blog/hfoss/quicklook-scoop/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Sugarlabs Activity: Team Proposal</title>
