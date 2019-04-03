@@ -1,16 +1,18 @@
 ---
-title: "Quicklook: What's The Scoop?"
+title: 'Quicklook: What''s The Scoop?'
 tags:
-- open-source
-- class
-- shell
-- powershell
-- scoop
-- unlicense
-- Windows
-- quicklook
-categories: 
-- [blog, hfoss]
+  - open-source
+  - class
+  - shell
+  - powershell
+  - scoop
+  - unlicense
+  - Windows
+  - quicklook
+categories:
+  - - blog
+    - hfoss
+date: 2019-04-03 01:18:07
 ---
 
 # What's the Scoop? #
