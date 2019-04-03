@@ -81,7 +81,7 @@ You can find scoop's source on its [github repository](https://github.com/lukesa
 
 ## What's the license? ##
 
-Scoop is actually 'licensed' under the "[Unlicense](https://unlicense.org/)". This is a specific way to for developers to dedicate work to the public domain. The license itself combines a copyright waiver similar to that from the public domain SQLite project with the no-warranty statement from the MIT/X11 license.
+Scoop is actually 'licensed' under the "[Unlicense](https://unlicense.org/)". This is a specific way for developers to dedicate work to the public domain. The license itself combines a copyright waiver similar to that from the public domain SQLite project with the no-warranty statement from the MIT/X11 license.
 
 It's the antithesis to 'all rights reserved' - this license is a bit of a '[no rights reserved](https://creativecommons.org/publicdomain/zero/1.0/)' situation.
 
